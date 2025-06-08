@@ -1,0 +1,101 @@
+/Users/ammarabagumbul/DevProjects/manimizer/.venv/lib/python3.13/site-packages/pydub/utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
+Manim Community v0.19.0
+
+[06/08/25 19:47:50] INFO     Caching disabled.                      cairo_renderer.py:79
+Animation 0: Write(Text('Types of Triangles')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                          INFO     Animation 0 : Partial movie file   scene_file_writer.py:588
+                             written in                                                 
+                             '/Users/ammarabagumbul/DevProjects                         
+                             /manimizer/media/videos/generated_                         
+                             manim/480p15/partial_movie_files/T                         
+                             ypesOfTriangles/uncached_00000.mp4                         
+                             '                                                          
+                    INFO     Caching disabled.                      cairo_renderer.py:79
+Animation 1: Write(Text('By Sides')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                INFO     Animation 1 : Partial movie file   scene_file_writer.py:588
+                             written in                                                 
+                             '/Users/ammarabagumbul/DevProjects                         
+                             /manimizer/media/videos/generated_                         
+                             manim/480p15/partial_movie_files/T                         
+                             ypesOfTriangles/uncached_00001.mp4                         
+                             '                                                          
+                    INFO     Caching disabled.                      cairo_renderer.py:79
+Animation 2: Create(Polygon), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                              INFO     Animation 2 : Partial movie file   scene_file_writer.py:588
+                             written in                                                 
+                             '/Users/ammarabagumbul/DevProjects                         
+                             /manimizer/media/videos/generated_                         
+                             manim/480p15/partial_movie_files/T                         
+                             ypesOfTriangles/uncached_00002.mp4                         
+                             '                                                          
+                    INFO     Caching disabled.                      cairo_renderer.py:79
+Animation 3: Create(Polygon), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                              INFO     Animation 3 : Partial movie file   scene_file_writer.py:588
+                             written in                                                 
+                             '/Users/ammarabagumbul/DevProjects                         
+                             /manimizer/media/videos/generated_                         
+                             manim/480p15/partial_movie_files/T                         
+                             ypesOfTriangles/uncached_00003.mp4                         
+                             '                                                          
+                    INFO     Caching disabled.                      cairo_renderer.py:79
+Animation 4: Create(Polygon), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                              INFO     Animation 4 : Partial movie file   scene_file_writer.py:588
+                             written in                                                 
+                             '/Users/ammarabagumbul/DevProjects                         
+                             /manimizer/media/videos/generated_                         
+                             manim/480p15/partial_movie_files/T                         
+                             ypesOfTriangles/uncached_00004.mp4                         
+                             '                                                          
+                    INFO     Caching disabled.                      cairo_renderer.py:79
+Animation 5: FadeOut(Polygon), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                               INFO     Animation 5 : Partial movie file   scene_file_writer.py:588
+                             written in                                                 
+                             '/Users/ammarabagumbul/DevProjects                         
+                             /manimizer/media/videos/generated_                         
+                             manim/480p15/partial_movie_files/T                         
+                             ypesOfTriangles/uncached_00005.mp4                         
+                             '                                                          
+                    INFO     Caching disabled.                      cairo_renderer.py:79
+Animation 6: Write(Text('By Angles')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                 INFO     Animation 6 : Partial movie file   scene_file_writer.py:588
+                             written in                                                 
+                             '/Users/ammarabagumbul/DevProjects                         
+                             /manimizer/media/videos/generated_                         
+                             manim/480p15/partial_movie_files/T                         
+                             ypesOfTriangles/uncached_00006.mp4                         
+                             '                                                          
+                    INFO     Caching disabled.                      cairo_renderer.py:79
+Animation 7: Create(Polygon), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                              INFO     Animation 7 : Partial movie file   scene_file_writer.py:588
+                             written in                                                 
+                             '/Users/ammarabagumbul/DevProjects                         
+                             /manimizer/media/videos/generated_                         
+                             manim/480p15/partial_movie_files/T                         
+                             ypesOfTriangles/uncached_00007.mp4                         
+                             '                                                          
+                    INFO     Caching disabled.                      cairo_renderer.py:79
+Animation 8: Create(Polygon), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                              INFO     Animation 8 : Partial movie file   scene_file_writer.py:588
+                             written in                                                 
+                             '/Users/ammarabagumbul/DevProjects                         
+                             /manimizer/media/videos/generated_                         
+                             manim/480p15/partial_movie_files/T                         
+                             ypesOfTriangles/uncached_00008.mp4                         
+                             '                                                          
+                    INFO     Caching disabled.                      cairo_renderer.py:79
+Animation 9: Create(Polygon), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                              INFO     Animation 9 : Partial movie file   scene_file_writer.py:588
+                             written in                                                 
+                             '/Users/ammarabagumbul/DevProjects                         
+                             /manimizer/media/videos/generated_                         
+                             manim/480p15/partial_movie_files/T                         
+                             ypesOfTriangles/uncached_00009.mp4                         
+                             '                                                          
+                    INFO     Caching disabled.                      cairo_renderer.py:79
+                    INFO     Animation 10 : Partial movie file  scene_file_writer.py:588
+                             written in                                                 
+                             '/Users/ammarabagumbul/DevProjects                         
+                             /manimizer/media/videos/generated_                         
+                             manim/480p15/partial_movie_files/T                         
+                             ypesOfTriangles/uncached_00010.mp4                         
+                             '                                                          
+                    INFO     Combining to Movie file.           scene_file_writer.py:739
+[06/08/25 19:47:51] INFO                                        scene_file_writer.py:886
+                             File ready at                                              
+                             '/Users/ammarabagumbul/DevProjects                         
+                             /manimizer/media/videos/generated_                         
+                             manim/480p15/TypesOfTriangles.mp4'                         
+                                                                                        
+                    INFO     Rendered TypesOfTriangles                      scene.py:255
+                             Played 11 animations                                       

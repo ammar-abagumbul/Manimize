@@ -1,0 +1,13 @@
+{
+  "doc_id": "e7647f569c82a8104481b3336456474e",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.geometry.shape_matchers.html",
+  "title": "shape_matchers - Manim Community v0.19.0",
+  "content": "shape\\_matchers[¶](#module-manim.mobject.geometry.shape_matchers \"Link to this heading\")\n========================================================================================\nMobjects used to mark and annotate other mobjects.\nClasses\n| [`BackgroundRectangle`](manim.mobject.geometry.shape_matchers.BackgroundRectangle.html#manim.mobject.geometry.shape_matchers.BackgroundRectangle \"manim.mobject.geometry.shape_matchers.BackgroundRectangle\") | A background rectangle. |\n| --- | --- |\n| [`Cross`](manim.mobject.geometry.shape_matchers.Cross.html#manim.mobject.geometry.shape_matchers.Cross \"manim.mobject.geometry.shape_matchers.Cross\") | Creates a cross. |\n| [`SurroundingRectangle`](manim.mobject.geometry.shape_matchers.SurroundingRectangle.html#manim.mobject.geometry.shape_matchers.SurroundingRectangle \"manim.mobject.geometry.shape_matchers.SurroundingRectangle\") | A rectangle surrounding a [`Mobject`](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\") |\n| [`Underline`](manim.mobject.geometry.shape_matchers.Underline.html#manim.mobject.geometry.shape_matchers.Underline \"manim.mobject.geometry.shape_matchers.Underline\") | Creates an underline. |",
+  "scraped_at": "2025-06-24T17:50:54.591440",
+  "content_length": 1205,
+  "domain": "docs.manim.community",
+  "word_count": 55,
+  "inspection_status": "pending",
+  "filename": "shape_matchers - Manim Community v0.19.0_20250624_175054.json",
+  "saved_at": "2025-06-24T17:50:54.591486"
+}

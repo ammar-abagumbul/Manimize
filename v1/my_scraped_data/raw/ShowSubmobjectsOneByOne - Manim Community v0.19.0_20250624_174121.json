@@ -1,0 +1,13 @@
+{
+  "doc_id": "3fadfa38a702b17abe152d23a83a84ff",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.creation.ShowSubmobjectsOneByOne.html",
+  "title": "ShowSubmobjectsOneByOne - Manim Community v0.19.0",
+  "content": "ShowSubmobjectsOneByOne[¶](#showsubmobjectsonebyone \"Link to this heading\")\n===========================================================================\nQualified name: `manim.animation.creation.ShowSubmobjectsOneByOne`\n*class* ShowSubmobjectsOneByOne(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/creation.html#ShowSubmobjectsOneByOne)[¶](#manim.animation.creation.ShowSubmobjectsOneByOne \"Link to this definition\")\nBases: [`ShowIncreasingSubsets`](manim.animation.creation.ShowIncreasingSubsets.html#manim.animation.creation.ShowIncreasingSubsets \"manim.animation.creation.ShowIncreasingSubsets\")\nShow one submobject at a time, removing all previously displayed ones from screen.\nMethods\n| `update_submobject_list` |  |\n| --- | --- |\nAttributes\n| `run_time` |  |\n| --- | --- |\nParameters:\n* **group** (*Iterable**\\[*[*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\")*]*)\n* **int\\_func** (*Callable**\\[**\\[**np.ndarray**]**,* *np.ndarray**]*)\n\\_original\\_\\_init\\_\\_(*group*, *int\\_func\\=\\<ufunc 'ceil'\\>*, *\\*\\*kwargs*)[¶](#manim.animation.creation.ShowSubmobjectsOneByOne._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **group** (*Iterable**\\[*[*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\")*]*)\n* **int\\_func** (*Callable**\\[**\\[**ndarray**]**,* *ndarray**]*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:41:21.706346",
+  "content_length": 1531,
+  "domain": "docs.manim.community",
+  "word_count": 90,
+  "inspection_status": "pending",
+  "filename": "ShowSubmobjectsOneByOne - Manim Community v0.19.0_20250624_174121.json",
+  "saved_at": "2025-06-24T17:41:21.706465"
+}

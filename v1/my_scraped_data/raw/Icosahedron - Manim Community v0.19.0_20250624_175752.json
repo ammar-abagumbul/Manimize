@@ -1,0 +1,13 @@
+{
+  "doc_id": "3829ddf66712b326b443c2253fadaf10",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.three_d.polyhedra.Icosahedron.html",
+  "title": "Icosahedron - Manim Community v0.19.0",
+  "content": "Icosahedron[¶](#icosahedron \"Link to this heading\")\n===================================================\nQualified name: `manim.mobject.three\\_d.polyhedra.Icosahedron`\n*class* Icosahedron(*edge\\_length\\=1*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/three_d/polyhedra.html#Icosahedron)[¶](#manim.mobject.three_d.polyhedra.Icosahedron \"Link to this definition\")\nBases: [`Polyhedron`](manim.mobject.three_d.polyhedra.Polyhedron.html#manim.mobject.three_d.polyhedra.Polyhedron \"manim.mobject.three_d.polyhedra.Polyhedron\")\nAn icosahedron, one of the five platonic solids. It has 20 faces, 30 edges and 12 vertices.\nParameters:\n**edge\\_length** (*float*) – The length of an edge between any two vertices.\nExamples\nExample: IcosahedronScene [¶](#icosahedronscene)\n![../_images/IcosahedronScene-1.png](../_images/IcosahedronScene-1.png)\n```\nfrom manim import *\nclass IcosahedronScene(ThreeDScene):\n    def construct(self):\n        self.set_camera_orientation(phi=75 * DEGREES, theta=30 * DEGREES)\n        obj = Icosahedron()\n        self.add(obj)\n```\n```\nclass IcosahedronScene(ThreeDScene):\n    def construct(self):\n        self.set_camera_orientation(phi=75 * DEGREES, theta=30 * DEGREES)\n        obj = Icosahedron()\n        self.add(obj)\n```\nMethods\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `color` |  |\n| `depth` | The depth of the mobject. |\n| `fill_color` | If there are multiple colors (for gradient) this returns the first one |\n| `height` | The height of the mobject. |\n| `n_points_per_curve` |  |\n| `sheen_factor` |  |\n| `stroke_color` |  |\n| `width` | The width of the mobject. |\n\\_original\\_\\_init\\_\\_(*edge\\_length\\=1*, *\\*\\*kwargs*)[¶](#manim.mobject.three_d.polyhedra.Icosahedron._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n**edge\\_length** (*float*)",
+  "scraped_at": "2025-06-24T17:57:52.975153",
+  "content_length": 1929,
+  "domain": "docs.manim.community",
+  "word_count": 190,
+  "inspection_status": "pending",
+  "filename": "Icosahedron - Manim Community v0.19.0_20250624_175752.json",
+  "saved_at": "2025-06-24T17:57:52.975208"
+}

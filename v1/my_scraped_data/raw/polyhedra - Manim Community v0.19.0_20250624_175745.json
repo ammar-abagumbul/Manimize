@@ -1,0 +1,13 @@
+{
+  "doc_id": "253e059855eb1dd9d440b975e38f948e",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.three_d.polyhedra.html",
+  "title": "polyhedra - Manim Community v0.19.0",
+  "content": "polyhedra[¶](#module-manim.mobject.three_d.polyhedra \"Link to this heading\")\n============================================================================\nGeneral polyhedral class and platonic solids.\nClasses\n| [`ConvexHull3D`](manim.mobject.three_d.polyhedra.ConvexHull3D.html#manim.mobject.three_d.polyhedra.ConvexHull3D \"manim.mobject.three_d.polyhedra.ConvexHull3D\") | A convex hull for a set of points |\n| --- | --- |\n| [`Dodecahedron`](manim.mobject.three_d.polyhedra.Dodecahedron.html#manim.mobject.three_d.polyhedra.Dodecahedron \"manim.mobject.three_d.polyhedra.Dodecahedron\") | A dodecahedron, one of the five platonic solids. |\n| [`Icosahedron`](manim.mobject.three_d.polyhedra.Icosahedron.html#manim.mobject.three_d.polyhedra.Icosahedron \"manim.mobject.three_d.polyhedra.Icosahedron\") | An icosahedron, one of the five platonic solids. |\n| [`Octahedron`](manim.mobject.three_d.polyhedra.Octahedron.html#manim.mobject.three_d.polyhedra.Octahedron \"manim.mobject.three_d.polyhedra.Octahedron\") | An octahedron, one of the five platonic solids. |\n| [`Polyhedron`](manim.mobject.three_d.polyhedra.Polyhedron.html#manim.mobject.three_d.polyhedra.Polyhedron \"manim.mobject.three_d.polyhedra.Polyhedron\") | An abstract polyhedra class. |\n| [`Tetrahedron`](manim.mobject.three_d.polyhedra.Tetrahedron.html#manim.mobject.three_d.polyhedra.Tetrahedron \"manim.mobject.three_d.polyhedra.Tetrahedron\") | A tetrahedron, one of the five platonic solids. |",
+  "scraped_at": "2025-06-24T17:57:45.049699",
+  "content_length": 1450,
+  "domain": "docs.manim.community",
+  "word_count": 92,
+  "inspection_status": "pending",
+  "filename": "polyhedra - Manim Community v0.19.0_20250624_175745.json",
+  "saved_at": "2025-06-24T17:57:45.049742"
+}

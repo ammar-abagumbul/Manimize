@@ -1,0 +1,13 @@
+{
+  "doc_id": "d66549cbebeea3cf054ba3df97360c1e",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.geometry.arc.Sector.html",
+  "title": "Sector - Manim Community v0.19.0",
+  "content": "Sector[¶](#sector \"Link to this heading\")\n=========================================\nQualified name: `manim.mobject.geometry.arc.Sector`\n*class* Sector(*radius\\=1*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/geometry/arc.html#Sector)[¶](#manim.mobject.geometry.arc.Sector \"Link to this definition\")\nBases: [`AnnularSector`](manim.mobject.geometry.arc.AnnularSector.html#manim.mobject.geometry.arc.AnnularSector \"manim.mobject.geometry.arc.AnnularSector\")\nA sector of a circle.\nExamples\nExample: ExampleSector [¶](#examplesector)\n![../_images/ExampleSector-1.png](../_images/ExampleSector-1.png)\n```\nfrom manim import *\nclass ExampleSector(Scene):\n    def construct(self):\n        sector = Sector(radius=2)\n        sector2 = Sector(radius=2.5, angle=60*DEGREES).move_to([-3, 0, 0])\n        sector.set_color(RED)\n        sector2.set_color(PINK)\n        self.add(sector, sector2)\n```\n```\nclass ExampleSector(Scene):\n    def construct(self):\n        sector = Sector(radius=2)\n        sector2 = Sector(radius=2.5, angle=60*DEGREES).move_to([-3, 0, 0])\n        sector.set_color(RED)\n        sector2.set_color(PINK)\n        self.add(sector, sector2)\n```\nMethods\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `color` |  |\n| `depth` | The depth of the mobject. |\n| `fill_color` | If there are multiple colors (for gradient) this returns the first one |\n| `height` | The height of the mobject. |\n| `n_points_per_curve` |  |\n| `sheen_factor` |  |\n| `stroke_color` |  |\n| `width` | The width of the mobject. |\nParameters:\n* **radius** (*float*)\n* **kwargs** (*Any*)\n\\_original\\_\\_init\\_\\_(*radius\\=1*, *\\*\\*kwargs*)[¶](#manim.mobject.geometry.arc.Sector._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **radius** (*float*)\n* **kwargs** (*Any*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:49:27.170117",
+  "content_length": 1912,
+  "domain": "docs.manim.community",
+  "word_count": 185,
+  "inspection_status": "pending",
+  "filename": "Sector - Manim Community v0.19.0_20250624_174927.json",
+  "saved_at": "2025-06-24T17:49:27.170168"
+}

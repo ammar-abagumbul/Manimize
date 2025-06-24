@@ -1,0 +1,13 @@
+{
+  "doc_id": "b11dc33058add0ed56fd2e7be74ee58e",
+  "url": "https://docs.manim.community/en/latest/reference/manim.scene.scene.RerunSceneHandler.html",
+  "title": "RerunSceneHandler - Manim Community v0.19.0",
+  "content": "RerunSceneHandler[¶](#rerunscenehandler \"Link to this heading\")\n===============================================================\nQualified name: `manim.scene.scene.RerunSceneHandler`\n*class* RerunSceneHandler(*queue*)[\\[source]](../_modules/manim/scene/scene.html#RerunSceneHandler)[¶](#manim.scene.scene.RerunSceneHandler \"Link to this definition\")\nBases: `FileSystemEventHandler`\nA class to handle rerunning a Scene after the input file is modified.\nMethods\n| [`on_modified`](#manim.scene.scene.RerunSceneHandler.on_modified \"manim.scene.scene.RerunSceneHandler.on_modified\") | Called when a file or directory is modified. |\n| --- | --- |\non\\_modified(*event*)[\\[source]](../_modules/manim/scene/scene.html#RerunSceneHandler.on_modified)[¶](#manim.scene.scene.RerunSceneHandler.on_modified \"Link to this definition\")\nCalled when a file or directory is modified.\nParameters:\n**event** (`DirModifiedEvent` or `FileModifiedEvent`) – Event representing file/directory modification.",
+  "scraped_at": "2025-06-24T18:34:02.654005",
+  "content_length": 978,
+  "domain": "docs.manim.community",
+  "word_count": 72,
+  "inspection_status": "pending",
+  "filename": "RerunSceneHandler - Manim Community v0.19.0_20250624_183402.json",
+  "saved_at": "2025-06-24T18:34:02.654076"
+}

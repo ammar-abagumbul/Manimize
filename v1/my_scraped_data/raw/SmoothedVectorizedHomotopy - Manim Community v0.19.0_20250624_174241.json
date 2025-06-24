@@ -1,0 +1,13 @@
+{
+  "doc_id": "9fe4a21888166532651fcc468a502ada",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.movement.SmoothedVectorizedHomotopy.html",
+  "title": "SmoothedVectorizedHomotopy - Manim Community v0.19.0",
+  "content": "SmoothedVectorizedHomotopy[¶](#smoothedvectorizedhomotopy \"Link to this heading\")\n=================================================================================\nQualified name: `manim.animation.movement.SmoothedVectorizedHomotopy`\n*class* SmoothedVectorizedHomotopy(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/movement.html#SmoothedVectorizedHomotopy)[¶](#manim.animation.movement.SmoothedVectorizedHomotopy \"Link to this definition\")\nBases: [`Homotopy`](manim.animation.movement.Homotopy.html#manim.animation.movement.Homotopy \"manim.animation.movement.Homotopy\")\nMethods\n| `interpolate_submobject` |  |\n| --- | --- |\nAttributes\n| `run_time` |  |\n| --- | --- |\nParameters:\n* **homotopy** (*Callable**\\[**\\[**float**,* *float**,* *float**,* *float**]**,* *tuple**\\[**float**,* *float**,* *float**]**]*)\n* **mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\n* **run\\_time** (*float*)\n* **apply\\_function\\_kwargs** (*dict**\\[**str**,* *Any**]* *\\|* *None*)\n\\_original\\_\\_init\\_\\_(*homotopy*, *mobject*, *run\\_time\\=3*, *apply\\_function\\_kwargs\\=None*, *\\*\\*kwargs*)[¶](#manim.animation.movement.SmoothedVectorizedHomotopy._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **homotopy** (*Callable**\\[**\\[**float**,* *float**,* *float**,* *float**]**,* *tuple**\\[**float**,* *float**,* *float**]**]*)\n* **mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\n* **run\\_time** (*float*)\n* **apply\\_function\\_kwargs** (*dict**\\[**str**,* *Any**]* *\\|* *None*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:42:41.988053",
+  "content_length": 1743,
+  "domain": "docs.manim.community",
+  "word_count": 106,
+  "inspection_status": "pending",
+  "filename": "SmoothedVectorizedHomotopy - Manim Community v0.19.0_20250624_174241.json",
+  "saved_at": "2025-06-24T17:42:41.988101"
+}

@@ -1,0 +1,13 @@
+{
+  "doc_id": "d9cd0781d8703a83557b378eb2f67a0f",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.specialized.html",
+  "title": "specialized - Manim Community v0.19.0",
+  "content": "specialized[¶](#module-manim.animation.specialized \"Link to this heading\")\n==========================================================================\nClasses\n| [`Broadcast`](manim.animation.specialized.Broadcast.html#manim.animation.specialized.Broadcast \"manim.animation.specialized.Broadcast\") | Broadcast a mobject starting from an `initial_width`, up to the actual size of the mobject. |\n| --- | --- |",
+  "scraped_at": "2025-06-24T17:43:01.086470",
+  "content_length": 405,
+  "domain": "docs.manim.community",
+  "word_count": 32,
+  "inspection_status": "pending",
+  "filename": "specialized - Manim Community v0.19.0_20250624_174301.json",
+  "saved_at": "2025-06-24T17:43:01.086510"
+}

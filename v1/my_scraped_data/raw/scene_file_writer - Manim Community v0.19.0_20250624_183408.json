@@ -1,0 +1,13 @@
+{
+  "doc_id": "905367f77af8802ed1249d7b01afde2d",
+  "url": "https://docs.manim.community/en/latest/reference/manim.scene.scene_file_writer.html",
+  "title": "scene_file_writer - Manim Community v0.19.0",
+  "content": "scene\\_file\\_writer[¶](#module-manim.scene.scene_file_writer \"Link to this heading\")\n====================================================================================\nThe interface between scenes and ffmpeg.\nClasses\n| [`SceneFileWriter`](manim.scene.scene_file_writer.SceneFileWriter.html#manim.scene.scene_file_writer.SceneFileWriter \"manim.scene.scene_file_writer.SceneFileWriter\") | SceneFileWriter is the object that actually writes the animations played, into video files, using FFMPEG. |\n| --- | --- |\nFunctions\nconvert\\_audio(*input\\_path*, *output\\_path*, *codec\\_name*)[\\[source]](../_modules/manim/scene/scene_file_writer.html#convert_audio)[¶](#manim.scene.scene_file_writer.convert_audio \"Link to this definition\")\nParameters:\n* **input\\_path** (*Path*)\n* **output\\_path** (*Path*)\n* **codec\\_name** (*str*)\nto\\_av\\_frame\\_rate(*fps*)[\\[source]](../_modules/manim/scene/scene_file_writer.html#to_av_frame_rate)[¶](#manim.scene.scene_file_writer.to_av_frame_rate \"Link to this definition\")",
+  "scraped_at": "2025-06-24T18:34:08.283479",
+  "content_length": 1003,
+  "domain": "docs.manim.community",
+  "word_count": 61,
+  "inspection_status": "pending",
+  "filename": "scene_file_writer - Manim Community v0.19.0_20250624_183408.json",
+  "saved_at": "2025-06-24T18:34:08.283526"
+}

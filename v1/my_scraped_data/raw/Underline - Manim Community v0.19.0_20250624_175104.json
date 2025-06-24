@@ -1,0 +1,13 @@
+{
+  "doc_id": "874c2b91f195dde0112361d806929944",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.geometry.shape_matchers.Underline.html",
+  "title": "Underline - Manim Community v0.19.0",
+  "content": "Underline[¶](#underline \"Link to this heading\")\n===============================================\nQualified name: `manim.mobject.geometry.shape\\_matchers.Underline`\n*class* Underline(*mobject*, *buff\\=0\\.1*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/geometry/shape_matchers.html#Underline)[¶](#manim.mobject.geometry.shape_matchers.Underline \"Link to this definition\")\nBases: [`Line`](manim.mobject.geometry.line.Line.html#manim.mobject.geometry.line.Line \"manim.mobject.geometry.line.Line\")\nCreates an underline.\nExamples\nExample: UnderLine [¶](#underline)\n![../_images/UnderLine-1.png](../_images/UnderLine-1.png)\n```\nfrom manim import *\nclass UnderLine(Scene):\n    def construct(self):\n        man = Tex(\"Manim\")  # Full Word\n        ul = Underline(man)  # Underlining the word\n        self.add(man, ul)\n```\n```\nclass UnderLine(Scene):\n    def construct(self):\n        man = Tex(\"Manim\")  # Full Word\n        ul = Underline(man)  # Underlining the word\n        self.add(man, ul)\n```\nMethods\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `color` |  |\n| `depth` | The depth of the mobject. |\n| `fill_color` | If there are multiple colors (for gradient) this returns the first one |\n| `height` | The height of the mobject. |\n| `n_points_per_curve` |  |\n| `sheen_factor` |  |\n| `stroke_color` |  |\n| `width` | The width of the mobject. |\nParameters:\n* **mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\n* **buff** (*float*)\n* **kwargs** (*Any*)\n\\_original\\_\\_init\\_\\_(*mobject*, *buff\\=0\\.1*, *\\*\\*kwargs*)[¶](#manim.mobject.geometry.shape_matchers.Underline._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\n* **buff** (*float*)\n* **kwargs** (*Any*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:51:04.588059",
+  "content_length": 2025,
+  "domain": "docs.manim.community",
+  "word_count": 197,
+  "inspection_status": "pending",
+  "filename": "Underline - Manim Community v0.19.0_20250624_175104.json",
+  "saved_at": "2025-06-24T17:51:04.588157"
+}

@@ -1,0 +1,13 @@
+{
+  "doc_id": "7c9d98fb7ba66ded330ba78d91139646",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.simple_functions.Comparable.html",
+  "title": "Comparable - Manim Community v0.19.0",
+  "content": "Comparable[¶](#comparable \"Link to this heading\")\n=================================================\nQualified name: `manim.utils.simple\\_functions.Comparable`\n*class* Comparable(*\\*args*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/utils/simple_functions.html#Comparable)[¶](#manim.utils.simple_functions.Comparable \"Link to this definition\")\nBases: `Protocol`\nMethods",
+  "scraped_at": "2025-06-24T18:36:46.831639",
+  "content_length": 367,
+  "domain": "docs.manim.community",
+  "word_count": 19,
+  "inspection_status": "pending",
+  "filename": "Comparable - Manim Community v0.19.0_20250624_183646.json",
+  "saved_at": "2025-06-24T18:36:46.831692"
+}

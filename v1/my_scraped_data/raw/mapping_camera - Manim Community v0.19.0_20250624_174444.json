@@ -1,0 +1,13 @@
+{
+  "doc_id": "22aafe17251651a02ccdcf69f5dab5f4",
+  "url": "https://docs.manim.community/en/latest/reference/manim.camera.mapping_camera.html",
+  "title": "mapping_camera - Manim Community v0.19.0",
+  "content": "mapping\\_camera[¶](#module-manim.camera.mapping_camera \"Link to this heading\")\n==============================================================================\nA camera that allows mapping between objects.\nClasses\n| [`MappingCamera`](manim.camera.mapping_camera.MappingCamera.html#manim.camera.mapping_camera.MappingCamera \"manim.camera.mapping_camera.MappingCamera\") | Camera object that allows mapping between objects. |\n| --- | --- |\n| [`OldMultiCamera`](manim.camera.mapping_camera.OldMultiCamera.html#manim.camera.mapping_camera.OldMultiCamera \"manim.camera.mapping_camera.OldMultiCamera\") |  |\n| [`SplitScreenCamera`](manim.camera.mapping_camera.SplitScreenCamera.html#manim.camera.mapping_camera.SplitScreenCamera \"manim.camera.mapping_camera.SplitScreenCamera\") |  |",
+  "scraped_at": "2025-06-24T17:44:44.764028",
+  "content_length": 772,
+  "domain": "docs.manim.community",
+  "word_count": 41,
+  "inspection_status": "pending",
+  "filename": "mapping_camera - Manim Community v0.19.0_20250624_174444.json",
+  "saved_at": "2025-06-24T17:44:44.764071"
+}

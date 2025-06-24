@@ -1,0 +1,13 @@
+{
+  "doc_id": "0192d95750775b227878cd0fdd774539",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.three_d.three_dimensions.ThreeDVMobject.html",
+  "title": "ThreeDVMobject - Manim Community v0.19.0",
+  "content": "ThreeDVMobject[¶](#threedvmobject \"Link to this heading\")\n=========================================================\nQualified name: `manim.mobject.three\\_d.three\\_dimensions.ThreeDVMobject`\n*class* ThreeDVMobject(*shade\\_in\\_3d\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/three_d/three_dimensions.html#ThreeDVMobject)[¶](#manim.mobject.three_d.three_dimensions.ThreeDVMobject \"Link to this definition\")\nBases: [`VMobject`](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\")\nMethods\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `color` |  |\n| `depth` | The depth of the mobject. |\n| `fill_color` | If there are multiple colors (for gradient) this returns the first one |\n| `height` | The height of the mobject. |\n| `n_points_per_curve` |  |\n| `sheen_factor` |  |\n| `stroke_color` |  |\n| `width` | The width of the mobject. |\nParameters:\n**shade\\_in\\_3d** (*bool*)\n\\_original\\_\\_init\\_\\_(*shade\\_in\\_3d\\=True*, *\\*\\*kwargs*)[¶](#manim.mobject.three_d.three_dimensions.ThreeDVMobject._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n**shade\\_in\\_3d** (*bool*)",
+  "scraped_at": "2025-06-24T17:58:31.277490",
+  "content_length": 1326,
+  "domain": "docs.manim.community",
+  "word_count": 122,
+  "inspection_status": "pending",
+  "filename": "ThreeDVMobject - Manim Community v0.19.0_20250624_175831.json",
+  "saved_at": "2025-06-24T17:58:31.277540"
+}

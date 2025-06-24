@@ -1,0 +1,13 @@
+{
+  "doc_id": "6831aef6ceb17dc400a93c379eb3869b",
+  "url": "https://docs.manim.community/en/latest/reference/manim.scene.scene.html",
+  "title": "scene - Manim Community v0.19.0",
+  "content": "scene[¶](#module-manim.scene.scene \"Link to this heading\")\n==========================================================\nBasic canvas for animations.\nClasses\n| [`RerunSceneHandler`](manim.scene.scene.RerunSceneHandler.html#manim.scene.scene.RerunSceneHandler \"manim.scene.scene.RerunSceneHandler\") | A class to handle rerunning a Scene after the input file is modified. |\n| --- | --- |\n| [`Scene`](manim.scene.scene.Scene.html#manim.scene.scene.Scene \"manim.scene.scene.Scene\") | A Scene is the canvas of your animation. |",
+  "scraped_at": "2025-06-24T18:34:00.154154",
+  "content_length": 519,
+  "domain": "docs.manim.community",
+  "word_count": 47,
+  "inspection_status": "pending",
+  "filename": "scene - Manim Community v0.19.0_20250624_183400.json",
+  "saved_at": "2025-06-24T18:34:00.154200"
+}

@@ -1,0 +1,13 @@
+{
+  "doc_id": "90922221361c87757be158cbfae01d03",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.testing._show_diff.html",
+  "title": "_show_diff - Manim Community v0.19.0",
+  "content": "\\_show\\_diff[¶](#module-manim.utils.testing._show_diff \"Link to this heading\")\n==============================================================================\nFunctions\nshow\\_diff\\_helper(*frame\\_number*, *frame\\_data*, *expected\\_frame\\_data*, *control\\_data\\_filename*)[\\[source]](../_modules/manim/utils/testing/_show_diff.html#show_diff_helper)[¶](#manim.utils.testing._show_diff.show_diff_helper \"Link to this definition\")\nWill visually display with matplotlib differences between frame generated and the one expected.\nParameters:\n* **frame\\_number** (*int*)\n* **frame\\_data** ([*PixelArray*](manim.typing.html#manim.typing.PixelArray \"manim.typing.PixelArray\"))\n* **expected\\_frame\\_data** ([*PixelArray*](manim.typing.html#manim.typing.PixelArray \"manim.typing.PixelArray\"))\n* **control\\_data\\_filename** (*str*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T18:37:00.283312",
+  "content_length": 836,
+  "domain": "docs.manim.community",
+  "word_count": 46,
+  "inspection_status": "pending",
+  "filename": "_show_diff - Manim Community v0.19.0_20250624_183700.json",
+  "saved_at": "2025-06-24T18:37:00.283359"
+}

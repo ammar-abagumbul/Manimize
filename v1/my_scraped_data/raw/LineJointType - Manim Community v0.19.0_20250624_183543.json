@@ -1,0 +1,13 @@
+{
+  "doc_id": "a3cfa436a14791c76a49cb56760c9562",
+  "url": "https://docs.manim.community/en/latest/reference/manim.constants.LineJointType.html",
+  "title": "LineJointType - Manim Community v0.19.0",
+  "content": "LineJointType[¶](#linejointtype \"Link to this heading\")\n=======================================================\nQualified name: `manim.constants.LineJointType`\n*class* LineJointType(*\\*values*)[\\[source]](../_modules/manim/constants.html#LineJointType)[¶](#manim.constants.LineJointType \"Link to this definition\")\nBases: `Enum`\nCollection of available line joint types.\nSee the example below for a visual illustration of the different\njoint types.\nExamples\nExample: LineJointVariants [¶](#linejointvariants)\n![../_images/LineJointVariants-1.png](../_images/LineJointVariants-1.png)\n```\nfrom manim import *\nclass LineJointVariants(Scene):\n    def construct(self):\n        mob = VMobject(stroke_width=20, color=GREEN).set_points_as_corners([\n            np.array([-2, 0, 0]),\n            np.array([0, 0, 0]),\n            np.array([-2, 1, 0]),\n        ])\n        lines = VGroup(*[mob.copy() for _ in range(len(LineJointType))])\n        for line, joint_type in zip(lines, LineJointType):\n            line.joint_type = joint_type\n        lines.arrange(RIGHT, buff=1)\n        self.add(lines)\n        for line in lines:\n            label = Text(line.joint_type.name).next_to(line, DOWN)\n            self.add(label)\n```\n```\nclass LineJointVariants(Scene):\n    def construct(self):\n        mob = VMobject(stroke_width=20, color=GREEN).set_points_as_corners([\n            np.array([-2, 0, 0]),\n            np.array([0, 0, 0]),\n            np.array([-2, 1, 0]),\n        ])\n        lines = VGroup(*[mob.copy() for _ in range(len(LineJointType))])\n        for line, joint_type in zip(lines, LineJointType):\n            line.joint_type = joint_type\n        lines.arrange(RIGHT, buff=1)\n        self.add(lines)\n        for line in lines:\n            label = Text(line.joint_type.name).next_to(line, DOWN)\n            self.add(label)\n```\nAttributes\n| `AUTO` |  |\n| --- | --- |\n| `ROUND` |  |\n| `BEVEL` |  |\n| `MITER` |  |",
+  "scraped_at": "2025-06-24T18:35:43.351570",
+  "content_length": 1905,
+  "domain": "docs.manim.community",
+  "word_count": 163,
+  "inspection_status": "pending",
+  "filename": "LineJointType - Manim Community v0.19.0_20250624_183543.json",
+  "saved_at": "2025-06-24T18:35:43.351618"
+}

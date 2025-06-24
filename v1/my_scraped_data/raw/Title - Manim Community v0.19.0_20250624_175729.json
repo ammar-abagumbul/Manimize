@@ -1,0 +1,13 @@
+{
+  "doc_id": "6d6183d8abe15184d9d3ae1b0d7da794",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.text.tex_mobject.Title.html",
+  "title": "Title - Manim Community v0.19.0",
+  "content": "Title[¶](#title \"Link to this heading\")\n=======================================\nQualified name: `manim.mobject.text.tex\\_mobject.Title`\n*class* Title(*\\*text\\_parts*, *include\\_underline\\=True*, *match\\_underline\\_width\\_to\\_text\\=False*, *underline\\_buff\\=0\\.25*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/text/tex_mobject.html#Title)[¶](#manim.mobject.text.tex_mobject.Title \"Link to this definition\")\nBases: [`Tex`](manim.mobject.text.tex_mobject.Tex.html#manim.mobject.text.tex_mobject.Tex \"manim.mobject.text.tex_mobject.Tex\")\nA mobject representing an underlined title.\nExamples\nExample: TitleExample [¶](#titleexample)\n![../_images/TitleExample-1.png](../_images/TitleExample-1.png)\n```\nfrom manim import *\nimport manim\nclass TitleExample(Scene):\n    def construct(self):\n        banner = ManimBanner()\n        title = Title(f\"Manim version {manim.__version__}\")\n        self.add(banner, title)\n```\n```\nimport manim\nclass TitleExample(Scene):\n    def construct(self):\n        banner = ManimBanner()\n        title = Title(f\"Manim version {manim.__version__}\")\n        self.add(banner, title)\n```\nMethods\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `color` |  |\n| `depth` | The depth of the mobject. |\n| `fill_color` | If there are multiple colors (for gradient) this returns the first one |\n| `font_size` | The font size of the tex mobject. |\n| `hash_seed` | A unique hash representing the result of the generated mobject points. |\n| `height` | The height of the mobject. |\n| `n_points_per_curve` |  |\n| `sheen_factor` |  |\n| `stroke_color` |  |\n| `width` | The width of the mobject. |\n\\_original\\_\\_init\\_\\_(*\\*text\\_parts*, *include\\_underline\\=True*, *match\\_underline\\_width\\_to\\_text\\=False*, *underline\\_buff\\=0\\.25*, *\\*\\*kwargs*)[¶](#manim.mobject.text.tex_mobject.Title._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.",
+  "scraped_at": "2025-06-24T17:57:29.238764",
+  "content_length": 1985,
+  "domain": "docs.manim.community",
+  "word_count": 199,
+  "inspection_status": "pending",
+  "filename": "Title - Manim Community v0.19.0_20250624_175729.json",
+  "saved_at": "2025-06-24T17:57:29.238814"
+}

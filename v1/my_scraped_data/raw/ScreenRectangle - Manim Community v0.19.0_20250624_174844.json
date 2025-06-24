@@ -1,0 +1,13 @@
+{
+  "doc_id": "eecc5fe9166f53b265d2e99b88125d94",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.frame.ScreenRectangle.html",
+  "title": "ScreenRectangle - Manim Community v0.19.0",
+  "content": "ScreenRectangle[¶](#screenrectangle \"Link to this heading\")\n===========================================================\nQualified name: `manim.mobject.frame.ScreenRectangle`\n*class* ScreenRectangle(*aspect\\_ratio\\=1\\.7777777777777777*, *height\\=4*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/frame.html#ScreenRectangle)[¶](#manim.mobject.frame.ScreenRectangle \"Link to this definition\")\nBases: [`Rectangle`](manim.mobject.geometry.polygram.Rectangle.html#manim.mobject.geometry.polygram.Rectangle \"manim.mobject.geometry.polygram.Rectangle\")\nMethods\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| [`aspect_ratio`](#manim.mobject.frame.ScreenRectangle.aspect_ratio \"manim.mobject.frame.ScreenRectangle.aspect_ratio\") | The aspect ratio. |\n| `color` |  |\n| `depth` | The depth of the mobject. |\n| `fill_color` | If there are multiple colors (for gradient) this returns the first one |\n| `height` | The height of the mobject. |\n| `n_points_per_curve` |  |\n| `sheen_factor` |  |\n| `stroke_color` |  |\n| `width` | The width of the mobject. |\nParameters:\n* **aspect\\_ratio** (*float*)\n* **height** (*float*)\n* **kwargs** (*Any*)\n\\_original\\_\\_init\\_\\_(*aspect\\_ratio\\=1\\.7777777777777777*, *height\\=4*, *\\*\\*kwargs*)[¶](#manim.mobject.frame.ScreenRectangle._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **aspect\\_ratio** (*float*)\n* **height** (*float*)\n* **kwargs** (*Any*)\nReturn type:\nNone\n*property* aspect\\_ratio*: float*[¶](#manim.mobject.frame.ScreenRectangle.aspect_ratio \"Link to this definition\")\nThe aspect ratio.\nWhen set, the width is stretched to accommodate\nthe new aspect ratio.",
+  "scraped_at": "2025-06-24T17:48:44.222994",
+  "content_length": 1753,
+  "domain": "docs.manim.community",
+  "word_count": 171,
+  "inspection_status": "pending",
+  "filename": "ScreenRectangle - Manim Community v0.19.0_20250624_174844.json",
+  "saved_at": "2025-06-24T17:48:44.223051"
+}

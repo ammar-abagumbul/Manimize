@@ -1,0 +1,13 @@
+{
+  "doc_id": "9d5d4037968f02d1133e284f7364d3d6",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.svg.brace.html",
+  "title": "brace - Manim Community v0.19.0",
+  "content": "brace[¶](#module-manim.mobject.svg.brace \"Link to this heading\")\n================================================================\nMobject representing curly braces.\nClasses\n| [`ArcBrace`](manim.mobject.svg.brace.ArcBrace.html#manim.mobject.svg.brace.ArcBrace \"manim.mobject.svg.brace.ArcBrace\") | Creates a [`Brace`](manim.mobject.svg.brace.Brace.html#manim.mobject.svg.brace.Brace \"manim.mobject.svg.brace.Brace\") that wraps around an [`Arc`](manim.mobject.geometry.arc.Arc.html#manim.mobject.geometry.arc.Arc \"manim.mobject.geometry.arc.Arc\"). |\n| --- | --- |\n| [`Brace`](manim.mobject.svg.brace.Brace.html#manim.mobject.svg.brace.Brace \"manim.mobject.svg.brace.Brace\") | Takes a mobject and draws a brace adjacent to it. |\n| [`BraceBetweenPoints`](manim.mobject.svg.brace.BraceBetweenPoints.html#manim.mobject.svg.brace.BraceBetweenPoints \"manim.mobject.svg.brace.BraceBetweenPoints\") | Similar to Brace, but instead of taking a mobject it uses 2 points to place the brace. |\n| [`BraceLabel`](manim.mobject.svg.brace.BraceLabel.html#manim.mobject.svg.brace.BraceLabel \"manim.mobject.svg.brace.BraceLabel\") | Create a brace with a label attached. |\n| [`BraceText`](manim.mobject.svg.brace.BraceText.html#manim.mobject.svg.brace.BraceText \"manim.mobject.svg.brace.BraceText\") |  |",
+  "scraped_at": "2025-06-24T17:56:19.793250",
+  "content_length": 1281,
+  "domain": "docs.manim.community",
+  "word_count": 85,
+  "inspection_status": "pending",
+  "filename": "brace - Manim Community v0.19.0_20250624_175619.json",
+  "saved_at": "2025-06-24T17:56:19.793308"
+}

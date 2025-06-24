@@ -1,59 +1,0 @@
-/Users/ammarabagumbul/DevProjects/manimizer/.venv/lib/python3.13/site-packages/pydub/utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
-  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
-Manim Community v0.19.0
-
-[06/09/25 20:55:22] INFO     Caching disabled.                                                                               cairo_renderer.py:79
-Animation 0: Write(Text('Types of Numbers')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                    [06/09/25 20:55:23] INFO     Animation 0 : Partial movie file written in                                                 scene_file_writer.py:588
-                             '/Users/ammarabagumbul/DevProjects/manimizer/media/videos/generated_manim/480p15/partial_mo                         
-                             vie_files/TypesOfNumbers/uncached_00000.mp4'                                                                        
-                    INFO     Writing \quad\\mathbb{N}: \quad\\ \{1, 2, 3,...\} to media/Tex/a6981547789e66de.tex          tex_file_writing.py:111
-                    INFO     Writing \quad\\mathbb{W}: \quad\\ \{0, 1, 2,...\} to media/Tex/ef5dabf0a11b2904.tex          tex_file_writing.py:111
-                    INFO     Writing \quad\\mathbb{Z}: ...,-2,-1,0,1,2,... to media/Tex/fc86a558998dc9bb.tex              tex_file_writing.py:111
-                    INFO     Writing \quad\\mathbb{Q}: 1/2, -3/4, 0.25 to media/Tex/f57cf9bcb54ecbf1.tex                  tex_file_writing.py:111
-                    INFO     Writing I: \\sqrt{2}, \\pi to media/Tex/1c06c0b0f9080f65.tex                                 tex_file_writing.py:111
-[06/09/25 20:55:24] INFO     Writing \quad\\mathbb{R}: \quad\\mathbb{Q} \quad\\cup I to media/Tex/8d1c04d4bc9ce7e2.tex    tex_file_writing.py:111
-                    INFO     Writing \quad\\mathbb{C}: 2+3i to media/Tex/d30936225d045786.tex                             tex_file_writing.py:111
-                    INFO     Caching disabled.                                                                               cairo_renderer.py:79
-Animation 1: DrawBorderThenFill(Rectangle), etc.:   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                            INFO     Animation 1 : Partial movie file written in                                                 scene_file_writer.py:588
-                             '/Users/ammarabagumbul/DevProjects/manimizer/media/videos/generated_manim/480p15/partial_mo                         
-                             vie_files/TypesOfNumbers/uncached_00001.mp4'                                                                        
-                    INFO     Caching disabled.                                                                               cairo_renderer.py:79
-Animation 2: Create(Circle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                             INFO     Animation 2 : Partial movie file written in                                                 scene_file_writer.py:588
-                             '/Users/ammarabagumbul/DevProjects/manimizer/media/videos/generated_manim/480p15/partial_mo                         
-                             vie_files/TypesOfNumbers/uncached_00002.mp4'                                                                        
-                    INFO     Caching disabled.                                                                               cairo_renderer.py:79
-Animation 3: Create(Circle), etc.:   0%|          | 0/30 [00:00<?, ?it/s]                                                                                             INFO     Animation 3 : Partial movie file written in                                                 scene_file_writer.py:588
-                             '/Users/ammarabagumbul/DevProjects/manimizer/media/videos/generated_manim/480p15/partial_mo                         
-                             vie_files/TypesOfNumbers/uncached_00003.mp4'                                                                        
-                    INFO     Caching disabled.                                                                               cairo_renderer.py:79
-Animation 4: Create(Circle), etc.:   0%|          | 0/30 [00:00<?, ?it/s]                                                                                             INFO     Animation 4 : Partial movie file written in                                                 scene_file_writer.py:588
-                             '/Users/ammarabagumbul/DevProjects/manimizer/media/videos/generated_manim/480p15/partial_mo                         
-                             vie_files/TypesOfNumbers/uncached_00004.mp4'                                                                        
-                    INFO     Caching disabled.                                                                               cairo_renderer.py:79
-Animation 5: Create(Circle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                             INFO     Animation 5 : Partial movie file written in                                                 scene_file_writer.py:588
-                             '/Users/ammarabagumbul/DevProjects/manimizer/media/videos/generated_manim/480p15/partial_mo                         
-                             vie_files/TypesOfNumbers/uncached_00005.mp4'                                                                        
-                    INFO     Caching disabled.                                                                               cairo_renderer.py:79
-Animation 6: Create(Circle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                             INFO     Animation 6 : Partial movie file written in                                                 scene_file_writer.py:588
-                             '/Users/ammarabagumbul/DevProjects/manimizer/media/videos/generated_manim/480p15/partial_mo                         
-                             vie_files/TypesOfNumbers/uncached_00006.mp4'                                                                        
-                    INFO     Caching disabled.                                                                               cairo_renderer.py:79
-Animation 7: Create(Circle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                             INFO     Animation 7 : Partial movie file written in                                                 scene_file_writer.py:588
-                             '/Users/ammarabagumbul/DevProjects/manimizer/media/videos/generated_manim/480p15/partial_mo                         
-                             vie_files/TypesOfNumbers/uncached_00007.mp4'                                                                        
-[06/09/25 20:55:25] INFO     Caching disabled.                                                                               cairo_renderer.py:79
-Animation 8: Write(Tex('\\\\mathbb{N}: \\\\ \\{1, 2, 3,...\\}')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 8: Write(Tex('\\\\mathbb{N}: \\\\ \\{1, 2, 3,...\\}')), etc.:  43%|████▎     | 13/30 [00:00<00:00, 118.85it/s]Animation 8: Write(Tex('\\\\mathbb{N}: \\\\ \\{1, 2, 3,...\\}')), etc.:  83%|████████▎ | 25/30 [00:00<00:00, 107.45it/s]                                                                                                                                            INFO     Animation 8 : Partial movie file written in                                                 scene_file_writer.py:588
-                             '/Users/ammarabagumbul/DevProjects/manimizer/media/videos/generated_manim/480p15/partial_mo                         
-                             vie_files/TypesOfNumbers/uncached_00008.mp4'                                                                        
-                    INFO     Caching disabled.                                                                               cairo_renderer.py:79
-                    INFO     Animation 9 : Partial movie file written in                                                 scene_file_writer.py:588
-                             '/Users/ammarabagumbul/DevProjects/manimizer/media/videos/generated_manim/480p15/partial_mo                         
-                             vie_files/TypesOfNumbers/uncached_00009.mp4'                                                                        
-                    INFO     Combining to Movie file.                                                                    scene_file_writer.py:739
-                    INFO                                                                                                 scene_file_writer.py:886
-                             File ready at                                                                                                       
-                             '/Users/ammarabagumbul/DevProjects/manimizer/media/videos/generated_manim/480p15/TypesOfNum                         
-                             bers.mp4'                                                                                                           
-                                                                                                                                                 
-                    INFO     Rendered TypesOfNumbers                                                                                 scene.py:255
-                             Played 10 animations                                                                                                

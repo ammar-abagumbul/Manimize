@@ -1,0 +1,13 @@
+{
+  "doc_id": "71c64452dad5aa0ca061c17a7a665d51",
+  "url": "https://docs.manim.community/en/latest/reference/manim.camera.mapping_camera.MappingCamera.html",
+  "title": "MappingCamera - Manim Community v0.19.0",
+  "content": "MappingCamera[¶](#mappingcamera \"Link to this heading\")\n=======================================================\nQualified name: `manim.camera.mapping\\_camera.MappingCamera`\n*class* MappingCamera(*mapping\\_func\\=\\<function MappingCamera.\\<lambda\\>\\>*, *min\\_num\\_curves\\=50*, *allow\\_object\\_intrusion\\=False*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/camera/mapping_camera.html#MappingCamera)[¶](#manim.camera.mapping_camera.MappingCamera \"Link to this definition\")\nBases: [`Camera`](manim.camera.camera.Camera.html#manim.camera.camera.Camera \"manim.camera.camera.Camera\")\nCamera object that allows mapping\nbetween objects.\nMethods\n| [`capture_mobjects`](#manim.camera.mapping_camera.MappingCamera.capture_mobjects \"manim.camera.mapping_camera.MappingCamera.capture_mobjects\") | Capture mobjects by printing them on `pixel_array`. |\n| --- | --- |\n| `points_to_pixel_coords` |  |\nAttributes\n| `background_color` |  |\n| --- | --- |\n| `background_opacity` |  |\ncapture\\_mobjects(*mobjects*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/camera/mapping_camera.html#MappingCamera.capture_mobjects)[¶](#manim.camera.mapping_camera.MappingCamera.capture_mobjects \"Link to this definition\")\nCapture mobjects by printing them on `pixel_array`.\nThis is the essential function that converts the contents of a Scene\ninto an array, which is then converted to an image or video.\nParameters:\n* **mobjects** – Mobjects to capture.\n* **kwargs** – Keyword arguments to be passed to `get_mobjects_to_display()`.\nNotes\nFor a list of classes that can currently be rendered, see `display_funcs()`.",
+  "scraped_at": "2025-06-24T17:47:56.701638",
+  "content_length": 1574,
+  "domain": "docs.manim.community",
+  "word_count": 132,
+  "inspection_status": "pending",
+  "filename": "MappingCamera - Manim Community v0.19.0_20250624_174756.json",
+  "saved_at": "2025-06-24T17:47:56.701712"
+}

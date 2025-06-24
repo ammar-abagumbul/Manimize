@@ -1,0 +1,13 @@
+{
+  "doc_id": "cde0e00e82a125fd18c1336079bb558c",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.docbuild.html",
+  "title": "docbuild - Manim Community v0.19.0",
+  "content": "docbuild[¶](#module-manim.utils.docbuild \"Link to this heading\")\n================================================================\nUtilities for building the Manim documentation.\nFor more information about the Manim documentation building, see:\n* [Manim Development Process](../contributing/development.html), specifically the `Documentation`\nbullet point under [Polishing Changes and Submitting a Pull Request](../contributing/development.html#polishing-changes-and-submitting-a-pull-request)\n* [Adding Documentation](../contributing/docs.html)\n| [`autoaliasattr_directive`](manim.utils.docbuild.autoaliasattr_directive.html#module-manim.utils.docbuild.autoaliasattr_directive \"manim.utils.docbuild.autoaliasattr_directive\") | A directive for documenting type aliases and other module\\-level attributes. |\n| --- | --- |\n| [`autocolor_directive`](manim.utils.docbuild.autocolor_directive.html#module-manim.utils.docbuild.autocolor_directive \"manim.utils.docbuild.autocolor_directive\") | A directive for documenting colors in Manim. |\n| [`manim_directive`](manim.utils.docbuild.manim_directive.html#module-manim.utils.docbuild.manim_directive \"manim.utils.docbuild.manim_directive\") | A directive for including Manim videos in a Sphinx document |\n| [`module_parsing`](manim.utils.docbuild.module_parsing.html#module-manim.utils.docbuild.module_parsing \"manim.utils.docbuild.module_parsing\") | Read and parse all the Manim modules and extract documentation from them. |",
+  "scraped_at": "2025-06-24T18:35:56.973195",
+  "content_length": 1466,
+  "domain": "docs.manim.community",
+  "word_count": 105,
+  "inspection_status": "pending",
+  "filename": "docbuild - Manim Community v0.19.0_20250624_183556.json",
+  "saved_at": "2025-06-24T18:35:56.973259"
+}

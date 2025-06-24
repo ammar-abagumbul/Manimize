@@ -1,0 +1,13 @@
+{
+  "doc_id": "cf53d4ffc0632493a48a5d21ba5fb10e",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.geometry.arc.CurvedDoubleArrow.html",
+  "title": "CurvedDoubleArrow - Manim Community v0.19.0",
+  "content": "CurvedDoubleArrow[¶](#curveddoublearrow \"Link to this heading\")\n===============================================================\nQualified name: `manim.mobject.geometry.arc.CurvedDoubleArrow`\n*class* CurvedDoubleArrow(*start\\_point*, *end\\_point*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/geometry/arc.html#CurvedDoubleArrow)[¶](#manim.mobject.geometry.arc.CurvedDoubleArrow \"Link to this definition\")\nBases: [`CurvedArrow`](manim.mobject.geometry.arc.CurvedArrow.html#manim.mobject.geometry.arc.CurvedArrow \"manim.mobject.geometry.arc.CurvedArrow\")\nMethods\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `color` |  |\n| `depth` | The depth of the mobject. |\n| `fill_color` | If there are multiple colors (for gradient) this returns the first one |\n| `height` | The height of the mobject. |\n| `n_points_per_curve` |  |\n| `sheen_factor` |  |\n| `stroke_color` |  |\n| `width` | The width of the mobject. |\nParameters:\n* **start\\_point** ([*Point3DLike*](manim.typing.html#manim.typing.Point3DLike \"manim.typing.Point3DLike\"))\n* **end\\_point** ([*Point3DLike*](manim.typing.html#manim.typing.Point3DLike \"manim.typing.Point3DLike\"))\n* **kwargs** (*Any*)\n\\_original\\_\\_init\\_\\_(*start\\_point*, *end\\_point*, *\\*\\*kwargs*)[¶](#manim.mobject.geometry.arc.CurvedDoubleArrow._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **start\\_point** ([*Point3DLike*](manim.typing.html#manim.typing.Point3DLike \"manim.typing.Point3DLike\"))\n* **end\\_point** ([*Point3DLike*](manim.typing.html#manim.typing.Point3DLike \"manim.typing.Point3DLike\"))\n* **kwargs** (*Any*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:49:17.172730",
+  "content_length": 1727,
+  "domain": "docs.manim.community",
+  "word_count": 145,
+  "inspection_status": "pending",
+  "filename": "CurvedDoubleArrow - Manim Community v0.19.0_20250624_174917.json",
+  "saved_at": "2025-06-24T17:49:17.172803"
+}

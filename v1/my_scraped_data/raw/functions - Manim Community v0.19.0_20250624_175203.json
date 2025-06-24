@@ -1,0 +1,13 @@
+{
+  "doc_id": "5e941e8ea14b173413f28834ce5ce162",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.graphing.functions.html",
+  "title": "functions - Manim Community v0.19.0",
+  "content": "functions[¶](#module-manim.mobject.graphing.functions \"Link to this heading\")\n=============================================================================\nMobjects representing function graphs.\nClasses\n| [`FunctionGraph`](manim.mobject.graphing.functions.FunctionGraph.html#manim.mobject.graphing.functions.FunctionGraph \"manim.mobject.graphing.functions.FunctionGraph\") | A [`ParametricFunction`](manim.mobject.graphing.functions.ParametricFunction.html#manim.mobject.graphing.functions.ParametricFunction \"manim.mobject.graphing.functions.ParametricFunction\") that spans the length of the scene by default. |\n| --- | --- |\n| [`ImplicitFunction`](manim.mobject.graphing.functions.ImplicitFunction.html#manim.mobject.graphing.functions.ImplicitFunction \"manim.mobject.graphing.functions.ImplicitFunction\") | An implicit function. |\n| [`ParametricFunction`](manim.mobject.graphing.functions.ParametricFunction.html#manim.mobject.graphing.functions.ParametricFunction \"manim.mobject.graphing.functions.ParametricFunction\") | A parametric curve. |",
+  "scraped_at": "2025-06-24T17:52:03.135581",
+  "content_length": 1045,
+  "domain": "docs.manim.community",
+  "word_count": 49,
+  "inspection_status": "pending",
+  "filename": "functions - Manim Community v0.19.0_20250624_175203.json",
+  "saved_at": "2025-06-24T17:52:03.135630"
+}

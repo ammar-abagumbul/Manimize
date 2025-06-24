@@ -1,0 +1,13 @@
+{
+  "doc_id": "a88e2b27b746f348665ffea667b6b802",
+  "url": "https://docs.manim.community/en/latest/reference/manim.camera.camera.html",
+  "title": "camera - Manim Community v0.19.0",
+  "content": "camera[¶](#module-manim.camera.camera \"Link to this heading\")\n=============================================================\nA camera converts the mobjects contained in a Scene into an array of pixels.\nClasses\n| [`BackgroundColoredVMobjectDisplayer`](manim.camera.camera.BackgroundColoredVMobjectDisplayer.html#manim.camera.camera.BackgroundColoredVMobjectDisplayer \"manim.camera.camera.BackgroundColoredVMobjectDisplayer\") | Auxiliary class that handles displaying vectorized mobjects with a set background image. |\n| --- | --- |\n| [`Camera`](manim.camera.camera.Camera.html#manim.camera.camera.Camera \"manim.camera.camera.Camera\") | Base camera class. |",
+  "scraped_at": "2025-06-24T17:44:37.540708",
+  "content_length": 654,
+  "domain": "docs.manim.community",
+  "word_count": 51,
+  "inspection_status": "pending",
+  "filename": "camera - Manim Community v0.19.0_20250624_174437.json",
+  "saved_at": "2025-06-24T17:44:37.540755"
+}

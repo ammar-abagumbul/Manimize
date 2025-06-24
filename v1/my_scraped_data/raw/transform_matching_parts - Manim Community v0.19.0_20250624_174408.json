@@ -1,0 +1,13 @@
+{
+  "doc_id": "1fd06d50a4f66ce880aa21ad35e12eae",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.transform_matching_parts.html",
+  "title": "transform_matching_parts - Manim Community v0.19.0",
+  "content": "transform\\_matching\\_parts[¶](#module-manim.animation.transform_matching_parts \"Link to this heading\")\n======================================================================================================\nAnimations that try to transform Mobjects while keeping track of identical parts.\nClasses\n| [`TransformMatchingAbstractBase`](manim.animation.transform_matching_parts.TransformMatchingAbstractBase.html#manim.animation.transform_matching_parts.TransformMatchingAbstractBase \"manim.animation.transform_matching_parts.TransformMatchingAbstractBase\") | Abstract base class for transformations that keep track of matching parts. |\n| --- | --- |\n| [`TransformMatchingShapes`](manim.animation.transform_matching_parts.TransformMatchingShapes.html#manim.animation.transform_matching_parts.TransformMatchingShapes \"manim.animation.transform_matching_parts.TransformMatchingShapes\") | An animation trying to transform groups by matching the shape of their submobjects. |\n| [`TransformMatchingTex`](manim.animation.transform_matching_parts.TransformMatchingTex.html#manim.animation.transform_matching_parts.TransformMatchingTex \"manim.animation.transform_matching_parts.TransformMatchingTex\") | A transformation trying to transform rendered LaTeX strings. |",
+  "scraped_at": "2025-06-24T17:44:08.940780",
+  "content_length": 1252,
+  "domain": "docs.manim.community",
+  "word_count": 71,
+  "inspection_status": "pending",
+  "filename": "transform_matching_parts - Manim Community v0.19.0_20250624_174408.json",
+  "saved_at": "2025-06-24T17:44:08.940832"
+}

@@ -1,0 +1,13 @@
+{
+  "doc_id": "e093750937f292a59d0091be1e573ff2",
+  "url": "https://docs.manim.community/en/latest/reference/manim.camera.three_d_camera.html",
+  "title": "three_d_camera - Manim Community v0.19.0",
+  "content": "three\\_d\\_camera[¶](#module-manim.camera.three_d_camera \"Link to this heading\")\n===============================================================================\nA camera that can be positioned and oriented in three\\-dimensional space.\nClasses\n| [`ThreeDCamera`](manim.camera.three_d_camera.ThreeDCamera.html#manim.camera.three_d_camera.ThreeDCamera \"manim.camera.three_d_camera.ThreeDCamera\") | Initializes the ThreeDCamera |\n| --- | --- |",
+  "scraped_at": "2025-06-24T17:48:14.621441",
+  "content_length": 438,
+  "domain": "docs.manim.community",
+  "word_count": 31,
+  "inspection_status": "pending",
+  "filename": "three_d_camera - Manim Community v0.19.0_20250624_174814.json",
+  "saved_at": "2025-06-24T17:48:14.621490"
+}

@@ -1,0 +1,13 @@
+{
+  "doc_id": "52b0505d36944d7ec71b4d9af6ad66d2",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.commands.html",
+  "title": "commands - Manim Community v0.19.0",
+  "content": "commands[¶](#module-manim.utils.commands \"Link to this heading\")\n================================================================\nClasses\n| [`VideoMetadata`](manim.utils.commands.VideoMetadata.html#manim.utils.commands.VideoMetadata \"manim.utils.commands.VideoMetadata\") |  |\n| --- | --- |\nFunctions\ncapture(*command*, *cwd\\=None*, *command\\_input\\=None*)[\\[source]](../_modules/manim/utils/commands.html#capture)[¶](#manim.utils.commands.capture \"Link to this definition\")\nParameters:\n* **command** (*str*)\n* **cwd** ([*StrOrBytesPath*](manim.typing.html#manim.typing.StrOrBytesPath \"manim.typing.StrOrBytesPath\") *\\|* *None*)\n* **command\\_input** (*str* *\\|* *None*)\nReturn type:\ntuple\\[str, str, int]\nget\\_dir\\_layout(*dirpath*)[\\[source]](../_modules/manim/utils/commands.html#get_dir_layout)[¶](#manim.utils.commands.get_dir_layout \"Link to this definition\")\nGet list of paths relative to dirpath of all files in dir and subdirs recursively.\nParameters:\n**dirpath** (*Path*)\nReturn type:\n*Generator*\\[str, None, None]\nget\\_video\\_metadata(*path\\_to\\_video*)[\\[source]](../_modules/manim/utils/commands.html#get_video_metadata)[¶](#manim.utils.commands.get_video_metadata \"Link to this definition\")\nParameters:\n**path\\_to\\_video** (*str* *\\|* *PathLike*)\nReturn type:\n[*VideoMetadata*](manim.utils.commands.VideoMetadata.html#manim.utils.commands.VideoMetadata \"manim.utils.commands.VideoMetadata\")",
+  "scraped_at": "2025-06-24T18:35:28.194235",
+  "content_length": 1402,
+  "domain": "docs.manim.community",
+  "word_count": 87,
+  "inspection_status": "pending",
+  "filename": "commands - Manim Community v0.19.0_20250624_183528.json",
+  "saved_at": "2025-06-24T18:35:28.194281"
+}

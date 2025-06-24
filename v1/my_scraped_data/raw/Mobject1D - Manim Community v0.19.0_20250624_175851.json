@@ -1,0 +1,13 @@
+{
+  "doc_id": "e4e048bb7dcca35beb1b9e115e3ae6ef",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.types.point_cloud_mobject.Mobject1D.html",
+  "title": "Mobject1D - Manim Community v0.19.0",
+  "content": "Mobject1D[¶](#mobject1d \"Link to this heading\")\n===============================================\nQualified name: `manim.mobject.types.point\\_cloud\\_mobject.Mobject1D`\n*class* Mobject1D(*density\\=10*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/types/point_cloud_mobject.html#Mobject1D)[¶](#manim.mobject.types.point_cloud_mobject.Mobject1D \"Link to this definition\")\nBases: [`PMobject`](manim.mobject.types.point_cloud_mobject.PMobject.html#manim.mobject.types.point_cloud_mobject.PMobject \"manim.mobject.types.point_cloud_mobject.PMobject\")\nMethods\n| `add_line` |  |\n| --- | --- |\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `depth` | The depth of the mobject. |\n| `height` | The height of the mobject. |\n| `width` | The width of the mobject. |\nParameters:\n* **density** (*int*)\n* **kwargs** (*Any*)\n\\_original\\_\\_init\\_\\_(*density\\=10*, *\\*\\*kwargs*)[¶](#manim.mobject.types.point_cloud_mobject.Mobject1D._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **density** (*int*)\n* **kwargs** (*Any*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:58:51.533343",
+  "content_length": 1177,
+  "domain": "docs.manim.community",
+  "word_count": 110,
+  "inspection_status": "pending",
+  "filename": "Mobject1D - Manim Community v0.19.0_20250624_175851.json",
+  "saved_at": "2025-06-24T17:58:51.533401"
+}

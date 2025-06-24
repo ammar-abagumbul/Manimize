@@ -1,0 +1,13 @@
+{
+  "doc_id": "c30a1f17e6ef1aaa55e9ffe6e6a64063",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.graphing.scale.LinearBase.html",
+  "title": "LinearBase - Manim Community v0.19.0",
+  "content": "LinearBase[¶](#linearbase \"Link to this heading\")\n=================================================\nQualified name: `manim.mobject.graphing.scale.LinearBase`\n*class* LinearBase(*scale\\_factor\\=1\\.0*)[\\[source]](../_modules/manim/mobject/graphing/scale.html#LinearBase)[¶](#manim.mobject.graphing.scale.LinearBase \"Link to this definition\")\nBases: `_ScaleBase`\nThe default scaling class.\nParameters:\n**scale\\_factor** (*float*) – The slope of the linear function, by default 1\\.0\nMethods\n| [`function`](#manim.mobject.graphing.scale.LinearBase.function \"manim.mobject.graphing.scale.LinearBase.function\") | Multiplies the value by the scale factor. |\n| --- | --- |\n| [`inverse_function`](#manim.mobject.graphing.scale.LinearBase.inverse_function \"manim.mobject.graphing.scale.LinearBase.inverse_function\") | Inverse of function. |\nfunction(*value*)[\\[source]](../_modules/manim/mobject/graphing/scale.html#LinearBase.function)[¶](#manim.mobject.graphing.scale.LinearBase.function \"Link to this definition\")\nMultiplies the value by the scale factor.\nParameters:\n**value** (*float*) – Value to be multiplied by the scale factor.\nReturn type:\nfloat\ninverse\\_function(*value*)[\\[source]](../_modules/manim/mobject/graphing/scale.html#LinearBase.inverse_function)[¶](#manim.mobject.graphing.scale.LinearBase.inverse_function \"Link to this definition\")\nInverse of function. Divides the value by the scale factor.\nParameters:\n**value** (*float*) – value to be divided by the scale factor.\nReturn type:\nfloat",
+  "scraped_at": "2025-06-24T17:55:45.512212",
+  "content_length": 1499,
+  "domain": "docs.manim.community",
+  "word_count": 117,
+  "inspection_status": "pending",
+  "filename": "LinearBase - Manim Community v0.19.0_20250624_175545.json",
+  "saved_at": "2025-06-24T17:55:45.512269"
+}

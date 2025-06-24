@@ -1,0 +1,13 @@
+{
+  "doc_id": "bfbb7fb2d4a58d26d7a33af37f79f032",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.text.code_mobject.html",
+  "title": "code_mobject - Manim Community v0.19.0",
+  "content": "code\\_mobject[¶](#module-manim.mobject.text.code_mobject \"Link to this heading\")\n================================================================================\nMobject representing highlighted source code listings.\nClasses\n| [`Code`](manim.mobject.text.code_mobject.Code.html#manim.mobject.text.code_mobject.Code \"manim.mobject.text.code_mobject.Code\") | A highlighted source code listing. |\n| --- | --- |",
+  "scraped_at": "2025-06-24T17:57:00.230706",
+  "content_length": 407,
+  "domain": "docs.manim.community",
+  "word_count": 28,
+  "inspection_status": "pending",
+  "filename": "code_mobject - Manim Community v0.19.0_20250624_175700.json",
+  "saved_at": "2025-06-24T17:57:00.230749"
+}

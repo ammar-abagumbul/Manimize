@@ -1,0 +1,13 @@
+{
+  "doc_id": "b6bb1c4034b9776554bd0314ea900892",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.graph.html",
+  "title": "graph - Manim Community v0.19.0",
+  "content": "graph[¶](#module-manim.mobject.graph \"Link to this heading\")\n============================================================\nMobjects used to represent mathematical graphs (think graph theory, not plotting).\nType Aliases\n*class* NxGraph[¶](#manim.mobject.graph.NxGraph \"Link to this definition\")\n```\nnx.classes.graph.Graph | nx.classes.digraph.DiGraph\n```\nClasses\n| [`DiGraph`](manim.mobject.graph.DiGraph.html#manim.mobject.graph.DiGraph \"manim.mobject.graph.DiGraph\") | A directed graph. |\n| --- | --- |\n| [`GenericGraph`](manim.mobject.graph.GenericGraph.html#manim.mobject.graph.GenericGraph \"manim.mobject.graph.GenericGraph\") | Abstract base class for graphs (that is, a collection of vertices connected with edges). |\n| [`Graph`](manim.mobject.graph.Graph.html#manim.mobject.graph.Graph \"manim.mobject.graph.Graph\") | An undirected graph (vertices connected with edges). |\n| [`LayoutFunction`](manim.mobject.graph.LayoutFunction.html#manim.mobject.graph.LayoutFunction \"manim.mobject.graph.LayoutFunction\") | A protocol for automatic layout functions that compute a layout for a graph to be used in `change_layout()`. |\nType Aliases\n*class* NxGraph[¶](#manim.mobject.graph.NxGraph \"Link to this definition\")\n```\nnx.classes.graph.Graph | nx.classes.digraph.DiGraph\n```\n*class* NxGraph[¶](#manim.mobject.graph.NxGraph \"Link to this definition\")\n```\nnx.classes.graph.Graph | nx.classes.digraph.DiGraph\n```",
+  "scraped_at": "2025-06-24T17:51:29.867185",
+  "content_length": 1406,
+  "domain": "docs.manim.community",
+  "word_count": 122,
+  "inspection_status": "pending",
+  "filename": "graph - Manim Community v0.19.0_20250624_175129.json",
+  "saved_at": "2025-06-24T17:51:29.867252"
+}

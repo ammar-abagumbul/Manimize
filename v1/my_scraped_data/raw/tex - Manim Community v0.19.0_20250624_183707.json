@@ -1,0 +1,13 @@
+{
+  "doc_id": "5a60877555fb9c9422e48e6f03580520",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.tex.html",
+  "title": "tex - Manim Community v0.19.0",
+  "content": "tex[¶](#module-manim.utils.tex \"Link to this heading\")\n======================================================\nUtilities for processing LaTeX templates.\nClasses\n| [`TexTemplate`](manim.utils.tex.TexTemplate.html#manim.utils.tex.TexTemplate \"manim.utils.tex.TexTemplate\") | TeX templates are used to create `Tex` and `MathTex` objects. |\n| --- | --- |",
+  "scraped_at": "2025-06-24T18:37:07.786414",
+  "content_length": 349,
+  "domain": "docs.manim.community",
+  "word_count": 32,
+  "inspection_status": "pending",
+  "filename": "tex - Manim Community v0.19.0_20250624_183707.json",
+  "saved_at": "2025-06-24T18:37:07.786460"
+}

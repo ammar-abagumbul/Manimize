@@ -1,0 +1,13 @@
+{
+  "doc_id": "452db54c2b4d54435fc02c42a8428c3c",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.numbers.html",
+  "title": "numbers - Manim Community v0.19.0",
+  "content": "numbers[¶](#module-manim.animation.numbers \"Link to this heading\")\n==================================================================\nAnimations for changing numbers.\nClasses\n| [`ChangeDecimalToValue`](manim.animation.numbers.ChangeDecimalToValue.html#manim.animation.numbers.ChangeDecimalToValue \"manim.animation.numbers.ChangeDecimalToValue\") |  |\n| --- | --- |\n| [`ChangingDecimal`](manim.animation.numbers.ChangingDecimal.html#manim.animation.numbers.ChangingDecimal \"manim.animation.numbers.ChangingDecimal\") |  |",
+  "scraped_at": "2025-06-24T17:42:44.696161",
+  "content_length": 518,
+  "domain": "docs.manim.community",
+  "word_count": 26,
+  "inspection_status": "pending",
+  "filename": "numbers - Manim Community v0.19.0_20250624_174244.json",
+  "saved_at": "2025-06-24T17:42:44.696214"
+}

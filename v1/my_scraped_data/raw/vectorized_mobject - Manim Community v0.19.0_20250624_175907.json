@@ -1,0 +1,13 @@
+{
+  "doc_id": "660a548d6a09aacfbdec1423249a3537",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.types.vectorized_mobject.html",
+  "title": "vectorized_mobject - Manim Community v0.19.0",
+  "content": "vectorized\\_mobject[¶](#module-manim.mobject.types.vectorized_mobject \"Link to this heading\")\n=============================================================================================\nMobjects that use vector graphics.\nClasses\n| [`CurvesAsSubmobjects`](manim.mobject.types.vectorized_mobject.CurvesAsSubmobjects.html#manim.mobject.types.vectorized_mobject.CurvesAsSubmobjects \"manim.mobject.types.vectorized_mobject.CurvesAsSubmobjects\") | Convert a curve's elements to submobjects. |\n| --- | --- |\n| [`DashedVMobject`](manim.mobject.types.vectorized_mobject.DashedVMobject.html#manim.mobject.types.vectorized_mobject.DashedVMobject \"manim.mobject.types.vectorized_mobject.DashedVMobject\") | A [`VMobject`](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\") composed of dashes instead of lines. |\n| [`VDict`](manim.mobject.types.vectorized_mobject.VDict.html#manim.mobject.types.vectorized_mobject.VDict \"manim.mobject.types.vectorized_mobject.VDict\") | A VGroup\\-like class, also offering submobject access by key, like a python dict |\n| [`VGroup`](manim.mobject.types.vectorized_mobject.VGroup.html#manim.mobject.types.vectorized_mobject.VGroup \"manim.mobject.types.vectorized_mobject.VGroup\") | A group of vectorized mobjects. |\n| [`VMobject`](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\") | A vectorized mobject. |\n| [`VectorizedPoint`](manim.mobject.types.vectorized_mobject.VectorizedPoint.html#manim.mobject.types.vectorized_mobject.VectorizedPoint \"manim.mobject.types.vectorized_mobject.VectorizedPoint\") |  |",
+  "scraped_at": "2025-06-24T17:59:07.741825",
+  "content_length": 1729,
+  "domain": "docs.manim.community",
+  "word_count": 83,
+  "inspection_status": "pending",
+  "filename": "vectorized_mobject - Manim Community v0.19.0_20250624_175907.json",
+  "saved_at": "2025-06-24T17:59:07.741931"
+}

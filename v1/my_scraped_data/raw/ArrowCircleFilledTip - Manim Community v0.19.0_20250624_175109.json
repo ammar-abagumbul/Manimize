@@ -1,0 +1,13 @@
+{
+  "doc_id": "52787ad111346538c792e3ed3365fcaa",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.geometry.tips.ArrowCircleFilledTip.html",
+  "title": "ArrowCircleFilledTip - Manim Community v0.19.0",
+  "content": "ArrowCircleFilledTip[¶](#arrowcirclefilledtip \"Link to this heading\")\n=====================================================================\nQualified name: `manim.mobject.geometry.tips.ArrowCircleFilledTip`\n*class* ArrowCircleFilledTip(*fill\\_opacity\\=1*, *stroke\\_width\\=0*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/geometry/tips.html#ArrowCircleFilledTip)[¶](#manim.mobject.geometry.tips.ArrowCircleFilledTip \"Link to this definition\")\nBases: [`ArrowCircleTip`](manim.mobject.geometry.tips.ArrowCircleTip.html#manim.mobject.geometry.tips.ArrowCircleTip \"manim.mobject.geometry.tips.ArrowCircleTip\")\nCircular arrow tip with filled tip.\nMethods\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `base` | The base point of the arrow tip. |\n| `color` |  |\n| `depth` | The depth of the mobject. |\n| `fill_color` | If there are multiple colors (for gradient) this returns the first one |\n| `height` | The height of the mobject. |\n| `length` | The length of the arrow tip. |\n| `n_points_per_curve` |  |\n| `sheen_factor` |  |\n| `stroke_color` |  |\n| `tip_angle` | The angle of the arrow tip. |\n| `tip_point` | The tip point of the arrow tip. |\n| `vector` | The vector pointing from the base point to the tip point. |\n| `width` | The width of the mobject. |\nParameters:\n* **fill\\_opacity** (*float*)\n* **stroke\\_width** (*float*)\n* **kwargs** (*Any*)\n\\_original\\_\\_init\\_\\_(*fill\\_opacity\\=1*, *stroke\\_width\\=0*, *\\*\\*kwargs*)[¶](#manim.mobject.geometry.tips.ArrowCircleFilledTip._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **fill\\_opacity** (*float*)\n* **stroke\\_width** (*float*)\n* **kwargs** (*Any*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:51:09.697313",
+  "content_length": 1780,
+  "domain": "docs.manim.community",
+  "word_count": 204,
+  "inspection_status": "pending",
+  "filename": "ArrowCircleFilledTip - Manim Community v0.19.0_20250624_175109.json",
+  "saved_at": "2025-06-24T17:51:09.697366"
+}

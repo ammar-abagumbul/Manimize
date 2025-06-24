@@ -1,0 +1,13 @@
+{
+  "doc_id": "8db2fbc0a8c20d5c21e34d0d5d332343",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.three_d.polyhedra.Tetrahedron.html",
+  "title": "Tetrahedron - Manim Community v0.19.0",
+  "content": "Tetrahedron[¶](#tetrahedron \"Link to this heading\")\n===================================================\nQualified name: `manim.mobject.three\\_d.polyhedra.Tetrahedron`\n*class* Tetrahedron(*edge\\_length\\=1*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/three_d/polyhedra.html#Tetrahedron)[¶](#manim.mobject.three_d.polyhedra.Tetrahedron \"Link to this definition\")\nBases: [`Polyhedron`](manim.mobject.three_d.polyhedra.Polyhedron.html#manim.mobject.three_d.polyhedra.Polyhedron \"manim.mobject.three_d.polyhedra.Polyhedron\")\nA tetrahedron, one of the five platonic solids. It has 4 faces, 6 edges, and 4 vertices.\nParameters:\n**edge\\_length** (*float*) – The length of an edge between any two vertices.\nExamples\nExample: TetrahedronScene [¶](#tetrahedronscene)\n![../_images/TetrahedronScene-1.png](../_images/TetrahedronScene-1.png)\n```\nfrom manim import *\nclass TetrahedronScene(ThreeDScene):\n    def construct(self):\n        self.set_camera_orientation(phi=75 * DEGREES, theta=30 * DEGREES)\n        obj = Tetrahedron()\n        self.add(obj)\n```\n```\nclass TetrahedronScene(ThreeDScene):\n    def construct(self):\n        self.set_camera_orientation(phi=75 * DEGREES, theta=30 * DEGREES)\n        obj = Tetrahedron()\n        self.add(obj)\n```\nMethods\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `color` |  |\n| `depth` | The depth of the mobject. |\n| `fill_color` | If there are multiple colors (for gradient) this returns the first one |\n| `height` | The height of the mobject. |\n| `n_points_per_curve` |  |\n| `sheen_factor` |  |\n| `stroke_color` |  |\n| `width` | The width of the mobject. |\n\\_original\\_\\_init\\_\\_(*edge\\_length\\=1*, *\\*\\*kwargs*)[¶](#manim.mobject.three_d.polyhedra.Tetrahedron._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n**edge\\_length** (*float*)",
+  "scraped_at": "2025-06-24T17:58:00.285889",
+  "content_length": 1926,
+  "domain": "docs.manim.community",
+  "word_count": 190,
+  "inspection_status": "pending",
+  "filename": "Tetrahedron - Manim Community v0.19.0_20250624_175800.json",
+  "saved_at": "2025-06-24T17:58:00.285939"
+}

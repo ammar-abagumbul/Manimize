@@ -1,0 +1,13 @@
+{
+  "doc_id": "45742cf972ac04a5bc8872f40984d777",
+  "url": "https://docs.manim.community/en/latest/reference/manim.scene.section.html",
+  "title": "section - Manim Community v0.19.0",
+  "content": "section[¶](#module-manim.scene.section \"Link to this heading\")\n==============================================================\nbuilding blocks of segmented video API\nClasses\n| [`DefaultSectionType`](manim.scene.section.DefaultSectionType.html#manim.scene.section.DefaultSectionType \"manim.scene.section.DefaultSectionType\") | The type of a section can be used for third party applications. |\n| --- | --- |\n| [`Section`](manim.scene.section.Section.html#manim.scene.section.Section \"manim.scene.section.Section\") | A [`Scene`](manim.scene.scene.Scene.html#manim.scene.scene.Scene \"manim.scene.scene.Scene\") can be segmented into multiple Sections. |",
+  "scraped_at": "2025-06-24T18:33:52.708359",
+  "content_length": 647,
+  "domain": "docs.manim.community",
+  "word_count": 49,
+  "inspection_status": "pending",
+  "filename": "section - Manim Community v0.19.0_20250624_183352.json",
+  "saved_at": "2025-06-24T18:33:52.708570"
+}

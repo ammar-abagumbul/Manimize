@@ -1,0 +1,13 @@
+{
+  "doc_id": "47a0ba28c5a4b98f79b744ab4332c794",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.geometry.tips.ArrowTriangleTip.html",
+  "title": "ArrowTriangleTip - Manim Community v0.19.0",
+  "content": "ArrowTriangleTip[¶](#arrowtriangletip \"Link to this heading\")\n=============================================================\nQualified name: `manim.mobject.geometry.tips.ArrowTriangleTip`\n*class* ArrowTriangleTip(*fill\\_opacity\\=0*, *stroke\\_width\\=3*, *length\\=0\\.35*, *width\\=0\\.35*, *start\\_angle\\=3\\.141592653589793*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/geometry/tips.html#ArrowTriangleTip)[¶](#manim.mobject.geometry.tips.ArrowTriangleTip \"Link to this definition\")\nBases: [`ArrowTip`](manim.mobject.geometry.tips.ArrowTip.html#manim.mobject.geometry.tips.ArrowTip \"manim.mobject.geometry.tips.ArrowTip\"), [`Triangle`](manim.mobject.geometry.polygram.Triangle.html#manim.mobject.geometry.polygram.Triangle \"manim.mobject.geometry.polygram.Triangle\")\nTriangular arrow tip.\nMethods\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `base` | The base point of the arrow tip. |\n| `color` |  |\n| `depth` | The depth of the mobject. |\n| `fill_color` | If there are multiple colors (for gradient) this returns the first one |\n| `height` | The height of the mobject. |\n| `length` | The length of the arrow tip. |\n| `n_points_per_curve` |  |\n| `sheen_factor` |  |\n| `stroke_color` |  |\n| `tip_angle` | The angle of the arrow tip. |\n| `tip_point` | The tip point of the arrow tip. |\n| `vector` | The vector pointing from the base point to the tip point. |\n| `width` | The width of the mobject. |\nParameters:\n* **fill\\_opacity** (*float*)\n* **stroke\\_width** (*float*)\n* **length** (*float*)\n* **width** (*float*)\n* **start\\_angle** (*float*)\n* **kwargs** (*Any*)\n\\_original\\_\\_init\\_\\_(*fill\\_opacity\\=0*, *stroke\\_width\\=3*, *length\\=0\\.35*, *width\\=0\\.35*, *start\\_angle\\=3\\.141592653589793*, *\\*\\*kwargs*)[¶](#manim.mobject.geometry.tips.ArrowTriangleTip._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **fill\\_opacity** (*float*)\n* **stroke\\_width** (*float*)\n* **length** (*float*)\n* **width** (*float*)\n* **start\\_angle** (*float*)\n* **kwargs** (*Any*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:51:24.886647",
+  "content_length": 2137,
+  "domain": "docs.manim.community",
+  "word_count": 227,
+  "inspection_status": "pending",
+  "filename": "ArrowTriangleTip - Manim Community v0.19.0_20250624_175124.json",
+  "saved_at": "2025-06-24T17:51:24.886705"
+}

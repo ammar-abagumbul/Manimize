@@ -1,0 +1,13 @@
+{
+  "doc_id": "172956968cc7cff8d45ac0957f1b61e5",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.numbers.ChangeDecimalToValue.html",
+  "title": "ChangeDecimalToValue - Manim Community v0.19.0",
+  "content": "ChangeDecimalToValue[¶](#changedecimaltovalue \"Link to this heading\")\n=====================================================================\nQualified name: `manim.animation.numbers.ChangeDecimalToValue`\n*class* ChangeDecimalToValue(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/numbers.html#ChangeDecimalToValue)[¶](#manim.animation.numbers.ChangeDecimalToValue \"Link to this definition\")\nBases: [`ChangingDecimal`](manim.animation.numbers.ChangingDecimal.html#manim.animation.numbers.ChangingDecimal \"manim.animation.numbers.ChangingDecimal\")\nMethods\nAttributes\n| `run_time` |  |\n| --- | --- |\nParameters:\n* **decimal\\_mob** ([*DecimalNumber*](manim.mobject.text.numbers.DecimalNumber.html#manim.mobject.text.numbers.DecimalNumber \"manim.mobject.text.numbers.DecimalNumber\"))\n* **target\\_number** (*int*)\n* **kwargs** (*Any*)\n\\_original\\_\\_init\\_\\_(*decimal\\_mob*, *target\\_number*, *\\*\\*kwargs*)[¶](#manim.animation.numbers.ChangeDecimalToValue._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **decimal\\_mob** ([*DecimalNumber*](manim.mobject.text.numbers.DecimalNumber.html#manim.mobject.text.numbers.DecimalNumber \"manim.mobject.text.numbers.DecimalNumber\"))\n* **target\\_number** (*int*)\n* **kwargs** (*Any*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:42:47.639975",
+  "content_length": 1360,
+  "domain": "docs.manim.community",
+  "word_count": 71,
+  "inspection_status": "pending",
+  "filename": "ChangeDecimalToValue - Manim Community v0.19.0_20250624_174247.json",
+  "saved_at": "2025-06-24T17:42:47.640031"
+}

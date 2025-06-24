@@ -1,0 +1,13 @@
+{
+  "doc_id": "90e228df80fb9e44e067eab2154203e3",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.changing.html",
+  "title": "changing - Manim Community v0.19.0",
+  "content": "changing[¶](#module-manim.animation.changing \"Link to this heading\")\n====================================================================\nAnimation of a mobject boundary and tracing of points.\nClasses\n| [`AnimatedBoundary`](manim.animation.changing.AnimatedBoundary.html#manim.animation.changing.AnimatedBoundary \"manim.animation.changing.AnimatedBoundary\") | Boundary of a [`VMobject`](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\") with animated color change. |\n| --- | --- |\n| [`TracedPath`](manim.animation.changing.TracedPath.html#manim.animation.changing.TracedPath \"manim.animation.changing.TracedPath\") | Traces the path of a point returned by a function call. |",
+  "scraped_at": "2025-06-24T17:40:40.625132",
+  "content_length": 775,
+  "domain": "docs.manim.community",
+  "word_count": 51,
+  "inspection_status": "pending",
+  "filename": "changing - Manim Community v0.19.0_20250624_174040.json",
+  "saved_at": "2025-06-24T17:40:40.625178"
+}

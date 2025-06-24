@@ -1,0 +1,13 @@
+{
+  "doc_id": "feebece68ec833d73e037729d6c50b15",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.transform.ApplyFunction.html",
+  "title": "ApplyFunction - Manim Community v0.19.0",
+  "content": "ApplyFunction[¶](#applyfunction \"Link to this heading\")\n=======================================================\nQualified name: `manim.animation.transform.ApplyFunction`\n*class* ApplyFunction(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/transform.html#ApplyFunction)[¶](#manim.animation.transform.ApplyFunction \"Link to this definition\")\nBases: [`Transform`](manim.animation.transform.Transform.html#manim.animation.transform.Transform \"manim.animation.transform.Transform\")\nMethods\n| `create_target` |  |\n| --- | --- |\nAttributes\n| `path_arc` |  |\n| --- | --- |\n| `path_func` |  |\n| `run_time` |  |\nParameters:\n* **function** (*types.MethodType*)\n* **mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\n\\_original\\_\\_init\\_\\_(*function*, *mobject*, *\\*\\*kwargs*)[¶](#manim.animation.transform.ApplyFunction._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **function** (*MethodType*)\n* **mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:43:16.945344",
+  "content_length": 1228,
+  "domain": "docs.manim.community",
+  "word_count": 82,
+  "inspection_status": "pending",
+  "filename": "ApplyFunction - Manim Community v0.19.0_20250624_174316.json",
+  "saved_at": "2025-06-24T17:43:16.945397"
+}

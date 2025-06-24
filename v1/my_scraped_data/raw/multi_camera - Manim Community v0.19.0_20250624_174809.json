@@ -1,0 +1,13 @@
+{
+  "doc_id": "a9c38a4d2c3a42b2a52a75e2d7330ea2",
+  "url": "https://docs.manim.community/en/latest/reference/manim.camera.multi_camera.html",
+  "title": "multi_camera - Manim Community v0.19.0",
+  "content": "multi\\_camera[¶](#module-manim.camera.multi_camera \"Link to this heading\")\n==========================================================================\nA camera supporting multiple perspectives.\nClasses\n| [`MultiCamera`](manim.camera.multi_camera.MultiCamera.html#manim.camera.multi_camera.MultiCamera \"manim.camera.multi_camera.MultiCamera\") | Camera Object that allows for multiple perspectives. |\n| --- | --- |",
+  "scraped_at": "2025-06-24T17:48:09.050681",
+  "content_length": 411,
+  "domain": "docs.manim.community",
+  "word_count": 29,
+  "inspection_status": "pending",
+  "filename": "multi_camera - Manim Community v0.19.0_20250624_174809.json",
+  "saved_at": "2025-06-24T17:48:09.050746"
+}

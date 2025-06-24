@@ -1,0 +1,13 @@
+{
+  "doc_id": "efe6aa330d992c2c4d2ea9f44a9b3fbc",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.rate_functions.RateFunction.html",
+  "title": "RateFunction - Manim Community v0.19.0",
+  "content": "RateFunction[¶](#ratefunction \"Link to this heading\")\n=====================================================\nQualified name: `manim.utils.rate\\_functions.RateFunction`\n*class* RateFunction(*\\*args*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/utils/rate_functions.html#RateFunction)[¶](#manim.utils.rate_functions.RateFunction \"Link to this definition\")\nBases: `Protocol`\nMethods",
+  "scraped_at": "2025-06-24T18:36:41.361885",
+  "content_length": 377,
+  "domain": "docs.manim.community",
+  "word_count": 19,
+  "inspection_status": "pending",
+  "filename": "RateFunction - Manim Community v0.19.0_20250624_183641.json",
+  "saved_at": "2025-06-24T18:36:41.361926"
+}

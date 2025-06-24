@@ -1,0 +1,13 @@
+{
+  "doc_id": "45310822f7045cabf426c225202537fd",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.types.html",
+  "title": "types - Manim Community v0.19.0",
+  "content": "types[¶](#module-manim.mobject.types \"Link to this heading\")\n============================================================\nSpecialized mobject base classes.\nModules[¶](#modules \"Link to this heading\")\n-------------------------------------------\n| [`image_mobject`](manim.mobject.types.image_mobject.html#module-manim.mobject.types.image_mobject \"manim.mobject.types.image_mobject\") | Mobjects representing raster images. |\n| --- | --- |\n| [`point_cloud_mobject`](manim.mobject.types.point_cloud_mobject.html#module-manim.mobject.types.point_cloud_mobject \"manim.mobject.types.point_cloud_mobject\") | Mobjects representing point clouds. |\n| [`vectorized_mobject`](manim.mobject.types.vectorized_mobject.html#module-manim.mobject.types.vectorized_mobject \"manim.mobject.types.vectorized_mobject\") | Mobjects that use vector graphics. |\nModules[¶](#modules \"Link to this heading\")\n-------------------------------------------\n| [`image_mobject`](manim.mobject.types.image_mobject.html#module-manim.mobject.types.image_mobject \"manim.mobject.types.image_mobject\") | Mobjects representing raster images. |\n| --- | --- |\n| [`point_cloud_mobject`](manim.mobject.types.point_cloud_mobject.html#module-manim.mobject.types.point_cloud_mobject \"manim.mobject.types.point_cloud_mobject\") | Mobjects representing point clouds. |\n| [`vectorized_mobject`](manim.mobject.types.vectorized_mobject.html#module-manim.mobject.types.vectorized_mobject \"manim.mobject.types.vectorized_mobject\") | Mobjects that use vector graphics. |",
+  "scraped_at": "2025-06-24T17:58:36.709635",
+  "content_length": 1509,
+  "domain": "docs.manim.community",
+  "word_count": 88,
+  "inspection_status": "pending",
+  "filename": "types - Manim Community v0.19.0_20250624_175836.json",
+  "saved_at": "2025-06-24T17:58:36.709701"
+}

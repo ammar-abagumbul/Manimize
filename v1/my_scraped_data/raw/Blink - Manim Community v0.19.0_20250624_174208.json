@@ -1,0 +1,13 @@
+{
+  "doc_id": "0823abe6679d35ffeed0ba13a0a9e320",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.indication.Blink.html",
+  "title": "Blink - Manim Community v0.19.0",
+  "content": "Blink[¶](#blink \"Link to this heading\")\n=======================================\nQualified name: `manim.animation.indication.Blink`\n*class* Blink(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/indication.html#Blink)[¶](#manim.animation.indication.Blink \"Link to this definition\")\nBases: [`Succession`](manim.animation.composition.Succession.html#manim.animation.composition.Succession \"manim.animation.composition.Succession\")\nBlink the mobject.\nParameters:\n* **mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\")) – The mobject to be blinked.\n* **time\\_on** (*float*) – The duration that the mobject is shown for one blink.\n* **time\\_off** (*float*) – The duration that the mobject is hidden for one blink.\n* **blinks** (*int*) – The number of blinks\n* **hide\\_at\\_end** (*bool*) – Whether to hide the mobject at the end of the animation.\n* **kwargs** – Additional arguments to be passed to the [`Succession`](manim.animation.composition.Succession.html#manim.animation.composition.Succession \"manim.animation.composition.Succession\") constructor.\nExamples\nExample: BlinkingExample [¶](#blinkingexample)\n```\nfrom manim import *\nclass BlinkingExample(Scene):\n    def construct(self):\n        text = Text(\"Blinking\").scale(1.5)\n        self.add(text)\n        self.play(Blink(text, blinks=3))\n```\n```\nclass BlinkingExample(Scene):\n    def construct(self):\n        text = Text(\"Blinking\").scale(1.5)\n        self.add(text)\n        self.play(Blink(text, blinks=3))\n```\nMethods\nAttributes\n| `run_time` |  |\n| --- | --- |\n\\_original\\_\\_init\\_\\_(*mobject*, *time\\_on\\=0\\.5*, *time\\_off\\=0\\.5*, *blinks\\=1*, *hide\\_at\\_end\\=False*, *\\*\\*kwargs*)[¶](#manim.animation.indication.Blink._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\n* **time\\_on** (*float*)\n* **time\\_off** (*float*)\n* **blinks** (*int*)\n* **hide\\_at\\_end** (*bool*)",
+  "scraped_at": "2025-06-24T17:42:08.525390",
+  "content_length": 2144,
+  "domain": "docs.manim.community",
+  "word_count": 176,
+  "inspection_status": "pending",
+  "filename": "Blink - Manim Community v0.19.0_20250624_174208.json",
+  "saved_at": "2025-06-24T17:42:08.525437"
+}

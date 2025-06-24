@@ -1,0 +1,13 @@
+{
+  "doc_id": "cd0967cdda2c6437a86ee4adaeefd1c3",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.types.point_cloud_mobject.PGroup.html",
+  "title": "PGroup - Manim Community v0.19.0",
+  "content": "PGroup[¶](#pgroup \"Link to this heading\")\n=========================================\nQualified name: `manim.mobject.types.point\\_cloud\\_mobject.PGroup`\n*class* PGroup(*\\*pmobs*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/types/point_cloud_mobject.html#PGroup)[¶](#manim.mobject.types.point_cloud_mobject.PGroup \"Link to this definition\")\nBases: [`PMobject`](manim.mobject.types.point_cloud_mobject.PMobject.html#manim.mobject.types.point_cloud_mobject.PMobject \"manim.mobject.types.point_cloud_mobject.PMobject\")\nA group for several point mobjects.\nExamples\nExample: PgroupExample [¶](#pgroupexample)\n![../_images/PgroupExample-1.png](../_images/PgroupExample-1.png)\n```\nfrom manim import *\nclass PgroupExample(Scene):\n    def construct(self):\n        p1 = PointCloudDot(radius=1, density=20, color=BLUE)\n        p1.move_to(4.5 * LEFT)\n        p2 = PointCloudDot()\n        p3 = PointCloudDot(radius=1.5, stroke_width=2.5, color=PINK)\n        p3.move_to(4.5 * RIGHT)\n        pList = PGroup(p1, p2, p3)\n        self.add(pList)\n```\n```\nclass PgroupExample(Scene):\n    def construct(self):\n        p1 = PointCloudDot(radius=1, density=20, color=BLUE)\n        p1.move_to(4.5 * LEFT)\n        p2 = PointCloudDot()\n        p3 = PointCloudDot(radius=1.5, stroke_width=2.5, color=PINK)\n        p3.move_to(4.5 * RIGHT)\n        pList = PGroup(p1, p2, p3)\n        self.add(pList)\n```\nMethods\n| `fade_to` |  |\n| --- | --- |\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `depth` | The depth of the mobject. |\n| `height` | The height of the mobject. |\n| `width` | The width of the mobject. |\nParameters:\n* **pmobs** (*Any*)\n* **kwargs** (*Any*)\n\\_original\\_\\_init\\_\\_(*\\*pmobs*, *\\*\\*kwargs*)[¶](#manim.mobject.types.point_cloud_mobject.PGroup._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **pmobs** (*Any*)\n* **kwargs** (*Any*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:58:57.093288",
+  "content_length": 1995,
+  "domain": "docs.manim.community",
+  "word_count": 187,
+  "inspection_status": "pending",
+  "filename": "PGroup - Manim Community v0.19.0_20250624_175857.json",
+  "saved_at": "2025-06-24T17:58:57.093348"
+}

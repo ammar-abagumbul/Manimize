@@ -1,0 +1,13 @@
+{
+  "doc_id": "32591aa49707c376eb14829315c9cce1",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.images.html",
+  "title": "images - Manim Community v0.19.0",
+  "content": "images[¶](#module-manim.utils.images \"Link to this heading\")\n============================================================\nImage manipulation utilities.\nFunctions\nchange\\_to\\_rgba\\_array(*image*, *dtype\\='uint8'*)[\\[source]](../_modules/manim/utils/images.html#change_to_rgba_array)[¶](#manim.utils.images.change_to_rgba_array \"Link to this definition\")\nConverts an RGB array into RGBA with the alpha value opacity maxed.\nParameters:\n* **image** ([*RGBPixelArray*](manim.typing.html#manim.typing.RGBPixelArray \"manim.typing.RGBPixelArray\"))\n* **dtype** (*str*)\nReturn type:\n[*RGBPixelArray*](manim.typing.html#manim.typing.RGBPixelArray \"manim.typing.RGBPixelArray\")\ndrag\\_pixels(*frames*)[\\[source]](../_modules/manim/utils/images.html#drag_pixels)[¶](#manim.utils.images.drag_pixels \"Link to this definition\")\nParameters:\n**frames** (*list**\\[**array**]*)\nReturn type:\nlist\\[*array*]\nget\\_full\\_raster\\_image\\_path(*image\\_file\\_name*)[\\[source]](../_modules/manim/utils/images.html#get_full_raster_image_path)[¶](#manim.utils.images.get_full_raster_image_path \"Link to this definition\")\nParameters:\n**image\\_file\\_name** (*str* *\\|* *PurePath*)\nReturn type:\n*Path*\nget\\_full\\_vector\\_image\\_path(*image\\_file\\_name*)[\\[source]](../_modules/manim/utils/images.html#get_full_vector_image_path)[¶](#manim.utils.images.get_full_vector_image_path \"Link to this definition\")\nParameters:\n**image\\_file\\_name** (*str* *\\|* *PurePath*)\nReturn type:\n*Path*\ninvert\\_image(*image*)[\\[source]](../_modules/manim/utils/images.html#invert_image)[¶](#manim.utils.images.invert_image \"Link to this definition\")\nParameters:\n**image** (*array*)\nReturn type:\n\\<module ‘PIL.Image’ from ‘/home/docs/checkouts/readthedocs.org/user\\_builds/manimce/envs/latest/lib/python3\\.13/site\\-packages/PIL/Image.py’\\>",
+  "scraped_at": "2025-06-24T18:36:25.549023",
+  "content_length": 1784,
+  "domain": "docs.manim.community",
+  "word_count": 91,
+  "inspection_status": "pending",
+  "filename": "images - Manim Community v0.19.0_20250624_183625.json",
+  "saved_at": "2025-06-24T18:36:25.549069"
+}

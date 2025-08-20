@@ -1,0 +1,4 @@
+from typing import TypeAlias
+from openai.types.chat.chat_completion_message_param import ChatCompletionMessageParam
+
+ChatCompletionMessageType: TypeAlias = ChatCompletionMessageParam

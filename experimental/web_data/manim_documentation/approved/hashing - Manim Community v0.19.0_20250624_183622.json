@@ -1,0 +1,14 @@
+{
+  "doc_id": "e4c200e3220408c9d62ef5c9befcf69a",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.hashing.html",
+  "title": "hashing - Manim Community v0.19.0",
+  "content": "hashing[¶](#module-manim.utils.hashing \"Link to this heading\")\n==============================================================\nUtilities for scene caching.\nFunctions\nget\\_hash\\_from\\_play\\_call(*scene\\_object*, *camera\\_object*, *animations\\_list*, *current\\_mobjects\\_list*)[\\[source]](../_modules/manim/utils/hashing.html#get_hash_from_play_call)[¶](#manim.utils.hashing.get_hash_from_play_call \"Link to this definition\")\nTake the list of animations and a list of mobjects and output their hashes. This is meant to be used for scene.play function.\nParameters:\n* **scene\\_object** ([*Scene*](manim.scene.scene.Scene.html#manim.scene.scene.Scene \"manim.scene.scene.Scene\")) – The scene object.\n* **camera\\_object** ([*Camera*](manim.camera.camera.Camera.html#manim.camera.camera.Camera \"manim.camera.camera.Camera\") *\\|* *OpenGLCamera*) – The camera object used in the scene.\n* **animations\\_list** (*Iterable**\\[*[*Animation*](manim.animation.animation.Animation.html#manim.animation.animation.Animation \"manim.animation.animation.Animation\")*]*) – The list of animations.\n* **current\\_mobjects\\_list** (*Iterable**\\[*[*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\")*]*) – The list of mobjects.\nReturns:\nA string concatenation of the respective hashes of camera\\_object, animations\\_list and current\\_mobjects\\_list, separated by \\_.\nReturn type:\n`str`\nget\\_json(*obj*)[\\[source]](../_modules/manim/utils/hashing.html#get_json)[¶](#manim.utils.hashing.get_json \"Link to this definition\")\nRecursively serialize object to JSON using the `CustomEncoder` class.\nParameters:\n**obj** (*dict*) – The dict to flatten\nReturns:\nThe flattened object\nReturn type:\n`str`",
+  "scraped_at": "2025-06-24T18:36:22.807409",
+  "content_length": 1718,
+  "domain": "docs.manim.community",
+  "word_count": 131,
+  "inspection_status": "approved",
+  "filename": "hashing - Manim Community v0.19.0_20250624_183622.json",
+  "saved_at": "2025-06-24T18:36:22.807462",
+  "approved_at": "2025-06-25T17:18:58.352749"
+}

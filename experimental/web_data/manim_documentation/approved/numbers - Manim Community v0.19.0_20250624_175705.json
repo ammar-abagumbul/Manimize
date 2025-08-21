@@ -1,0 +1,14 @@
+{
+  "doc_id": "5974eb78e5ca893128c6001e07511b3a",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.text.numbers.html",
+  "title": "numbers - Manim Community v0.19.0",
+  "content": "numbers[¶](#module-manim.mobject.text.numbers \"Link to this heading\")\n=====================================================================\nMobjects representing numbers.\nClasses\n| [`DecimalNumber`](manim.mobject.text.numbers.DecimalNumber.html#manim.mobject.text.numbers.DecimalNumber \"manim.mobject.text.numbers.DecimalNumber\") | An mobject representing a decimal number. |\n| --- | --- |\n| [`Integer`](manim.mobject.text.numbers.Integer.html#manim.mobject.text.numbers.Integer \"manim.mobject.text.numbers.Integer\") | A class for displaying Integers. |\n| [`Variable`](manim.mobject.text.numbers.Variable.html#manim.mobject.text.numbers.Variable \"manim.mobject.text.numbers.Variable\") | A class for displaying text that shows \"label \\= value\" with the value continuously updated from a [`ValueTracker`](manim.mobject.value_tracker.ValueTracker.html#manim.mobject.value_tracker.ValueTracker \"manim.mobject.value_tracker.ValueTracker\"). |",
+  "scraped_at": "2025-06-24T17:57:05.527303",
+  "content_length": 936,
+  "domain": "docs.manim.community",
+  "word_count": 60,
+  "inspection_status": "approved",
+  "filename": "numbers - Manim Community v0.19.0_20250624_175705.json",
+  "saved_at": "2025-06-24T17:57:05.527366",
+  "approved_at": "2025-06-25T17:18:58.400790"
+}

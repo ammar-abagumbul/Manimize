@@ -1,0 +1,14 @@
+{
+  "doc_id": "a8e0285cc9fb28884f3efdab63b9626f",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.movement.html",
+  "title": "movement - Manim Community v0.19.0",
+  "content": "movement[¶](#module-manim.animation.movement \"Link to this heading\")\n====================================================================\nAnimations related to movement.\nClasses\n| [`ComplexHomotopy`](manim.animation.movement.ComplexHomotopy.html#manim.animation.movement.ComplexHomotopy \"manim.animation.movement.ComplexHomotopy\") | Complex Homotopy a function Cx\\[0, 1] to C |\n| --- | --- |\n| [`Homotopy`](manim.animation.movement.Homotopy.html#manim.animation.movement.Homotopy \"manim.animation.movement.Homotopy\") | A Homotopy. |\n| [`MoveAlongPath`](manim.animation.movement.MoveAlongPath.html#manim.animation.movement.MoveAlongPath \"manim.animation.movement.MoveAlongPath\") | Make one mobject move along the path of another mobject. |\n| [`PhaseFlow`](manim.animation.movement.PhaseFlow.html#manim.animation.movement.PhaseFlow \"manim.animation.movement.PhaseFlow\") |  |\n| [`SmoothedVectorizedHomotopy`](manim.animation.movement.SmoothedVectorizedHomotopy.html#manim.animation.movement.SmoothedVectorizedHomotopy \"manim.animation.movement.SmoothedVectorizedHomotopy\") |  |",
+  "scraped_at": "2025-06-24T17:42:29.298677",
+  "content_length": 1074,
+  "domain": "docs.manim.community",
+  "word_count": 61,
+  "inspection_status": "approved",
+  "filename": "movement - Manim Community v0.19.0_20250624_174229.json",
+  "saved_at": "2025-06-24T17:42:29.298728",
+  "approved_at": "2025-06-25T17:18:58.369351"
+}

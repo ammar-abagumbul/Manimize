@@ -1,0 +1,14 @@
+{
+  "doc_id": "90eaea2b283339edd34b191b8bbae78a",
+  "url": "https://docs.manim.community/en/latest/reference/manim._config.html",
+  "title": "_config - Manim Community v0.19.0",
+  "content": "\\_config[¶](#module-manim._config \"Link to this heading\")\n=========================================================\nSet the global config and logger.\nFunctions\ntempconfig(*temp*)[\\[source]](../_modules/manim/_config.html#tempconfig)[¶](#manim._config.tempconfig \"Link to this definition\")\nContext manager that temporarily modifies the global `config` object.\nInside the `with` statement, the modified config will be used. After\ncontext manager exits, the config will be restored to its original state.\nParameters:\n**temp** ([*ManimConfig*](manim._config.utils.ManimConfig.html#manim._config.utils.ManimConfig \"manim._config.utils.ManimConfig\") *\\|* *dict**\\[**str**,* *Any**]*) – Object whose keys will be used to temporarily update the global\n`config`.\nReturn type:\n*Generator*\\[None, None, None]\nExamples\nUse `with tempconfig({...})` to temporarily change the default values of\ncertain config options.\n```\n>>> config[\"frame_height\"]\n8.0\n>>> with tempconfig({\"frame_height\": 100.0}):\n...     print(config[\"frame_height\"])\n100.0\n>>> config[\"frame_height\"]\n8.0\n```",
+  "scraped_at": "2025-06-24T17:48:21.888547",
+  "content_length": 1063,
+  "domain": "docs.manim.community",
+  "word_count": 104,
+  "inspection_status": "approved",
+  "filename": "_config - Manim Community v0.19.0_20250624_174821.json",
+  "saved_at": "2025-06-24T17:48:21.888597",
+  "approved_at": "2025-06-25T17:18:58.362242"
+}

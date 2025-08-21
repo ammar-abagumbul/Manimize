@@ -1,12 +1,11 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from pocketflow import Flow
-from src.agent.workflow_pocketflow import (
+from src.agent.nodes import (
     GenerateOutlineNode,
     ManimCodeGenerationNode,
     ErrorResolver,
     ManimExecutor,
-    END
 )
 
 class ChatRequest(BaseModel):
@@ -22,11 +21,9 @@ async def root(request: ChatRequest):
     generate_manim   = ManimCodeGenerationNode()
     resolve_error    = ErrorResolver()
     execute_manim    = ManimExecutor()
-    end              = END()
 
     generate_outline >> generate_manim >> execute_manim
     execute_manim - "correct_error" >> resolve_error
-    execute_manim - "default" >> end
     resolve_error >> execute_manim
 
     flow = Flow(start=generate_outline)

@@ -1,0 +1,14 @@
+{
+  "doc_id": "7ca7744e34055d5bc742406977c93c3e",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.transform.ApplyMethod.html",
+  "title": "ApplyMethod - Manim Community v0.19.0",
+  "content": "ApplyMethod[¶](#applymethod \"Link to this heading\")\n===================================================\nQualified name: `manim.animation.transform.ApplyMethod`\n*class* ApplyMethod(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/transform.html#ApplyMethod)[¶](#manim.animation.transform.ApplyMethod \"Link to this definition\")\nBases: [`Transform`](manim.animation.transform.Transform.html#manim.animation.transform.Transform \"manim.animation.transform.Transform\")\nAnimates a mobject by applying a method.\nNote that only the method needs to be passed to this animation,\nit is not required to pass the corresponding mobject. Furthermore,\nthis animation class only works if the method returns the modified\nmobject.\nParameters:\n* **method** (*Callable*) – The method that will be applied in the animation.\n* **args** – Any positional arguments to be passed when applying the method.\n* **kwargs** – Any keyword arguments passed to [`Transform`](manim.animation.transform.Transform.html#manim.animation.transform.Transform \"manim.animation.transform.Transform\").\nMethods\n| `check_validity_of_input` |  |\n| --- | --- |\n| `create_target` |  |\nAttributes\n| `path_arc` |  |\n| --- | --- |\n| `path_func` |  |\n| `run_time` |  |\n\\_original\\_\\_init\\_\\_(*method*, *\\*args*, *\\*\\*kwargs*)[¶](#manim.animation.transform.ApplyMethod._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n**method** (*Callable*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:43:22.077471",
+  "content_length": 1527,
+  "domain": "docs.manim.community",
+  "word_count": 151,
+  "inspection_status": "approved",
+  "filename": "ApplyMethod - Manim Community v0.19.0_20250624_174322.json",
+  "saved_at": "2025-06-24T17:43:22.077519",
+  "approved_at": "2025-06-25T17:18:58.273211"
+}

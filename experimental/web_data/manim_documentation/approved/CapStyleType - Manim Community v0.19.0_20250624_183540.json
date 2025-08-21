@@ -1,0 +1,14 @@
+{
+  "doc_id": "c9e649fb81c9191e59f301b49f62c6dd",
+  "url": "https://docs.manim.community/en/latest/reference/manim.constants.CapStyleType.html",
+  "title": "CapStyleType - Manim Community v0.19.0",
+  "content": "CapStyleType[¶](#capstyletype \"Link to this heading\")\n=====================================================\nQualified name: `manim.constants.CapStyleType`\n*class* CapStyleType(*\\*values*)[\\[source]](../_modules/manim/constants.html#CapStyleType)[¶](#manim.constants.CapStyleType \"Link to this definition\")\nBases: `Enum`\nCollection of available cap styles.\nSee the example below for a visual illustration of the different\ncap styles.\nExamples\nExample: CapStyleVariants [¶](#capstylevariants)\n![../_images/CapStyleVariants-1.png](../_images/CapStyleVariants-1.png)\n```\nfrom manim import *\nclass CapStyleVariants(Scene):\n    def construct(self):\n        arcs = VGroup(*[\n            Arc(\n                radius=1,\n                start_angle=0,\n                angle=TAU / 4,\n                stroke_width=20,\n                color=GREEN,\n                cap_style=cap_style,\n            )\n            for cap_style in CapStyleType\n        ])\n        arcs.arrange(RIGHT, buff=1)\n        self.add(arcs)\n        for arc in arcs:\n            label = Text(arc.cap_style.name, font_size=24).next_to(arc, DOWN)\n            self.add(label)\n```\n```\nclass CapStyleVariants(Scene):\n    def construct(self):\n        arcs = VGroup(*[\n            Arc(\n                radius=1,\n                start_angle=0,\n                angle=TAU / 4,\n                stroke_width=20,\n                color=GREEN,\n                cap_style=cap_style,\n            )\n            for cap_style in CapStyleType\n        ])\n        arcs.arrange(RIGHT, buff=1)\n        self.add(arcs)\n        for arc in arcs:\n            label = Text(arc.cap_style.name, font_size=24).next_to(arc, DOWN)\n            self.add(label)\n```\nAttributes\n| `AUTO` |  |\n| --- | --- |\n| `ROUND` |  |\n| `BUTT` |  |\n| `SQUARE` |  |",
+  "scraped_at": "2025-06-24T18:35:40.686469",
+  "content_length": 1766,
+  "domain": "docs.manim.community",
+  "word_count": 140,
+  "inspection_status": "approved",
+  "filename": "CapStyleType - Manim Community v0.19.0_20250624_183540.json",
+  "saved_at": "2025-06-24T18:35:40.686517",
+  "approved_at": "2025-06-25T17:18:58.444691"
+}

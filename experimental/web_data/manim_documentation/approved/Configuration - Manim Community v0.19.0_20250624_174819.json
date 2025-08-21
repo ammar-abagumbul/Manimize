@@ -1,0 +1,14 @@
+{
+  "doc_id": "feeb7d75dbee28f5613d75460144a0a0",
+  "url": "https://docs.manim.community/en/latest/reference_index/configuration.html",
+  "title": "Configuration - Manim Community v0.19.0",
+  "content": "Configuration[¶](#configuration \"Link to this heading\")\n=======================================================\nModule Index[¶](#module-index \"Link to this heading\")\n-----------------------------------------------------\n| [`_config`](../reference/manim._config.html#module-manim._config \"manim._config\") | Set the global config and logger. |\n| --- | --- |\n| [`utils`](../reference/manim._config.utils.html#module-manim._config.utils \"manim._config.utils\") | Utilities to create and set the config. |\n| [`logger_utils`](../reference/manim._config.logger_utils.html#module-manim._config.logger_utils \"manim._config.logger_utils\") | Utilities to create and set the logger. |\nModule Index[¶](#module-index \"Link to this heading\")\n-----------------------------------------------------\n| [`_config`](../reference/manim._config.html#module-manim._config \"manim._config\") | Set the global config and logger. |\n| --- | --- |\n| [`utils`](../reference/manim._config.utils.html#module-manim._config.utils \"manim._config.utils\") | Utilities to create and set the config. |\n| [`logger_utils`](../reference/manim._config.logger_utils.html#module-manim._config.logger_utils \"manim._config.logger_utils\") | Utilities to create and set the logger. |",
+  "scraped_at": "2025-06-24T17:48:19.224939",
+  "content_length": 1231,
+  "domain": "docs.manim.community",
+  "word_count": 100,
+  "inspection_status": "approved",
+  "filename": "Configuration - Manim Community v0.19.0_20250624_174819.json",
+  "saved_at": "2025-06-24T17:48:19.224992",
+  "approved_at": "2025-06-25T17:18:58.286217"
+}

@@ -1,0 +1,14 @@
+{
+  "doc_id": "6d4904842a9b5fc49c8ca1c4a920f7f9",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.rotation.html",
+  "title": "rotation - Manim Community v0.19.0",
+  "content": "rotation[¶](#module-manim.animation.rotation \"Link to this heading\")\n====================================================================\nAnimations related to rotation.\nClasses\n| [`Rotate`](manim.animation.rotation.Rotate.html#manim.animation.rotation.Rotate \"manim.animation.rotation.Rotate\") | Animation that rotates a Mobject. |\n| --- | --- |\n| [`Rotating`](manim.animation.rotation.Rotating.html#manim.animation.rotation.Rotating \"manim.animation.rotation.Rotating\") | Animation that rotates a Mobject. |",
+  "scraped_at": "2025-06-24T17:42:53.269965",
+  "content_length": 509,
+  "domain": "docs.manim.community",
+  "word_count": 36,
+  "inspection_status": "approved",
+  "filename": "rotation - Manim Community v0.19.0_20250624_174253.json",
+  "saved_at": "2025-06-24T17:42:53.270006",
+  "approved_at": "2025-06-25T17:18:58.432186"
+}

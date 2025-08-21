@@ -1,0 +1,14 @@
+{
+  "doc_id": "372a4f143f655548a2a506eef3946c94",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.graphing.scale.html",
+  "title": "scale - Manim Community v0.19.0",
+  "content": "scale[¶](#module-manim.mobject.graphing.scale \"Link to this heading\")\n=====================================================================\nClasses\n| [`LinearBase`](manim.mobject.graphing.scale.LinearBase.html#manim.mobject.graphing.scale.LinearBase \"manim.mobject.graphing.scale.LinearBase\") | The default scaling class. |\n| --- | --- |\n| [`LogBase`](manim.mobject.graphing.scale.LogBase.html#manim.mobject.graphing.scale.LogBase \"manim.mobject.graphing.scale.LogBase\") | Scale for logarithmic graphs/functions. |",
+  "scraped_at": "2025-06-24T17:55:43.020980",
+  "content_length": 514,
+  "domain": "docs.manim.community",
+  "word_count": 30,
+  "inspection_status": "approved",
+  "filename": "scale - Manim Community v0.19.0_20250624_175543.json",
+  "saved_at": "2025-06-24T17:55:43.021025",
+  "approved_at": "2025-06-25T17:18:58.267199"
+}

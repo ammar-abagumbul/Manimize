@@ -1,0 +1,14 @@
+{
+  "doc_id": "82ec36f46c49ed5e2c43943812f500c6",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.creation.Uncreate.html",
+  "title": "Uncreate - Manim Community v0.19.0",
+  "content": "Uncreate[¶](#uncreate \"Link to this heading\")\n=============================================\nQualified name: `manim.animation.creation.Uncreate`\n*class* Uncreate(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/creation.html#Uncreate)[¶](#manim.animation.creation.Uncreate \"Link to this definition\")\nBases: [`Create`](manim.animation.creation.Create.html#manim.animation.creation.Create \"manim.animation.creation.Create\")\nLike [`Create`](manim.animation.creation.Create.html#manim.animation.creation.Create \"manim.animation.creation.Create\") but in reverse.\nExamples\nExample: ShowUncreate [¶](#showuncreate)\n```\nfrom manim import *\nclass ShowUncreate(Scene):\n    def construct(self):\n        self.play(Uncreate(Square()))\n```\n```\nclass ShowUncreate(Scene):\n    def construct(self):\n        self.play(Uncreate(Square()))\n```\nSee also\n[`Create`](manim.animation.creation.Create.html#manim.animation.creation.Create \"manim.animation.creation.Create\")\nMethods\nAttributes\n| `run_time` |  |\n| --- | --- |\nParameters:\n* **mobject** ([*VMobject*](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\") *\\|* *OpenGLVMobject*)\n* **reverse\\_rate\\_function** (*bool*)\n* **remover** (*bool*)\n\\_original\\_\\_init\\_\\_(*mobject*, *reverse\\_rate\\_function\\=True*, *remover\\=True*, *\\*\\*kwargs*)[¶](#manim.animation.creation.Uncreate._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **mobject** ([*VMobject*](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\") *\\|* *OpenGLVMobject*)\n* **reverse\\_rate\\_function** (*bool*)\n* **remover** (*bool*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:41:29.432707",
+  "content_length": 1866,
+  "domain": "docs.manim.community",
+  "word_count": 108,
+  "inspection_status": "approved",
+  "filename": "Uncreate - Manim Community v0.19.0_20250624_174129.json",
+  "saved_at": "2025-06-24T17:41:29.432755",
+  "approved_at": "2025-06-25T17:18:58.388792"
+}

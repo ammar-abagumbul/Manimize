@@ -1,0 +1,14 @@
+{
+  "doc_id": "55cccfcfb3fe172f792bc1186fa7459c",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.geometry.boolean_ops.html",
+  "title": "boolean_ops - Manim Community v0.19.0",
+  "content": "boolean\\_ops[¶](#module-manim.mobject.geometry.boolean_ops \"Link to this heading\")\n==================================================================================\nBoolean operations for two\\-dimensional mobjects.\nClasses\n| [`Difference`](manim.mobject.geometry.boolean_ops.Difference.html#manim.mobject.geometry.boolean_ops.Difference \"manim.mobject.geometry.boolean_ops.Difference\") | Subtracts one [`VMobject`](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\") from another one. |\n| --- | --- |\n| [`Exclusion`](manim.mobject.geometry.boolean_ops.Exclusion.html#manim.mobject.geometry.boolean_ops.Exclusion \"manim.mobject.geometry.boolean_ops.Exclusion\") | Find the XOR between two [`VMobject`](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\"). |\n| [`Intersection`](manim.mobject.geometry.boolean_ops.Intersection.html#manim.mobject.geometry.boolean_ops.Intersection \"manim.mobject.geometry.boolean_ops.Intersection\") | Find the intersection of two [`VMobject`](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\") s. |\n| [`Union`](manim.mobject.geometry.boolean_ops.Union.html#manim.mobject.geometry.boolean_ops.Union \"manim.mobject.geometry.boolean_ops.Union\") | Union of two or more [`VMobject`](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\") s. |",
+  "scraped_at": "2025-06-24T17:49:32.125509",
+  "content_length": 1663,
+  "domain": "docs.manim.community",
+  "word_count": 67,
+  "inspection_status": "approved",
+  "filename": "boolean_ops - Manim Community v0.19.0_20250624_174932.json",
+  "saved_at": "2025-06-24T17:49:32.125555",
+  "approved_at": "2025-06-25T17:18:58.412836"
+}

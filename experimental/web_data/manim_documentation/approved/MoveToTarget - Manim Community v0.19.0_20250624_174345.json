@@ -1,0 +1,14 @@
+{
+  "doc_id": "784e5ce2542ab8667dc6f63557e895b8",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.transform.MoveToTarget.html",
+  "title": "MoveToTarget - Manim Community v0.19.0",
+  "content": "MoveToTarget[¶](#movetotarget \"Link to this heading\")\n=====================================================\nQualified name: `manim.animation.transform.MoveToTarget`\n*class* MoveToTarget(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/transform.html#MoveToTarget)[¶](#manim.animation.transform.MoveToTarget \"Link to this definition\")\nBases: [`Transform`](manim.animation.transform.Transform.html#manim.animation.transform.Transform \"manim.animation.transform.Transform\")\nTransforms a mobject to the mobject stored in its `target` attribute.\nAfter calling the `generate_target()` method, the `target`\nattribute of the mobject is populated with a copy of it. After modifying the attribute,\nplaying the [`MoveToTarget`](#manim.animation.transform.MoveToTarget \"manim.animation.transform.MoveToTarget\") animation transforms the original mobject\ninto the modified one stored in the `target` attribute.\nExamples\nExample: MoveToTargetExample [¶](#movetotargetexample)\n```\nfrom manim import *\nclass MoveToTargetExample(Scene):\n    def construct(self):\n        c = Circle()\n        c.generate_target()\n        c.target.set_fill(color=GREEN, opacity=0.5)\n        c.target.shift(2*RIGHT + UP).scale(0.5)\n        self.add(c)\n        self.play(MoveToTarget(c))\n```\n```\nclass MoveToTargetExample(Scene):\n    def construct(self):\n        c = Circle()\n        c.generate_target()\n        c.target.set_fill(color=GREEN, opacity=0.5)\n        c.target.shift(2*RIGHT + UP).scale(0.5)\n        self.add(c)\n        self.play(MoveToTarget(c))\n```\nMethods\n| `check_validity_of_input` |  |\n| --- | --- |\nAttributes\n| `path_arc` |  |\n| --- | --- |\n| `path_func` |  |\n| `run_time` |  |\nParameters:\n**mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\n\\_original\\_\\_init\\_\\_(*mobject*, *\\*\\*kwargs*)[¶](#manim.animation.transform.MoveToTarget._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n**mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:43:45.503941",
+  "content_length": 2199,
+  "domain": "docs.manim.community",
+  "word_count": 166,
+  "inspection_status": "approved",
+  "filename": "MoveToTarget - Manim Community v0.19.0_20250624_174345.json",
+  "saved_at": "2025-06-24T17:43:45.503997",
+  "approved_at": "2025-06-25T17:18:58.318084"
+}

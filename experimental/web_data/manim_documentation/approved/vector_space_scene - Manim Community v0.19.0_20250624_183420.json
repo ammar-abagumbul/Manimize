@@ -1,0 +1,14 @@
+{
+  "doc_id": "55bc7669827d5a5c35fb1f1934d2d0c8",
+  "url": "https://docs.manim.community/en/latest/reference/manim.scene.vector_space_scene.html",
+  "title": "vector_space_scene - Manim Community v0.19.0",
+  "content": "vector\\_space\\_scene[¶](#module-manim.scene.vector_space_scene \"Link to this heading\")\n======================================================================================\nA scene suitable for vector spaces.\nClasses\n| [`LinearTransformationScene`](manim.scene.vector_space_scene.LinearTransformationScene.html#manim.scene.vector_space_scene.LinearTransformationScene \"manim.scene.vector_space_scene.LinearTransformationScene\") | This scene contains special methods that make it especially suitable for showing linear transformations. |\n| --- | --- |\n| [`VectorScene`](manim.scene.vector_space_scene.VectorScene.html#manim.scene.vector_space_scene.VectorScene \"manim.scene.vector_space_scene.VectorScene\") |  |",
+  "scraped_at": "2025-06-24T18:34:20.581206",
+  "content_length": 711,
+  "domain": "docs.manim.community",
+  "word_count": 42,
+  "inspection_status": "approved",
+  "filename": "vector_space_scene - Manim Community v0.19.0_20250624_183420.json",
+  "saved_at": "2025-06-24T18:34:20.581258",
+  "approved_at": "2025-06-25T17:18:58.272371"
+}

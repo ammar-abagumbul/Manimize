@@ -1,0 +1,14 @@
+{
+  "doc_id": "8002499f1b663c162cd927fae34176ff",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.types.point_cloud_mobject.html",
+  "title": "point_cloud_mobject - Manim Community v0.19.0",
+  "content": "point\\_cloud\\_mobject[¶](#module-manim.mobject.types.point_cloud_mobject \"Link to this heading\")\n================================================================================================\nMobjects representing point clouds.\nClasses\n| [`Mobject1D`](manim.mobject.types.point_cloud_mobject.Mobject1D.html#manim.mobject.types.point_cloud_mobject.Mobject1D \"manim.mobject.types.point_cloud_mobject.Mobject1D\") |  |\n| --- | --- |\n| [`Mobject2D`](manim.mobject.types.point_cloud_mobject.Mobject2D.html#manim.mobject.types.point_cloud_mobject.Mobject2D \"manim.mobject.types.point_cloud_mobject.Mobject2D\") |  |\n| [`PGroup`](manim.mobject.types.point_cloud_mobject.PGroup.html#manim.mobject.types.point_cloud_mobject.PGroup \"manim.mobject.types.point_cloud_mobject.PGroup\") | A group for several point mobjects. |\n| [`PMobject`](manim.mobject.types.point_cloud_mobject.PMobject.html#manim.mobject.types.point_cloud_mobject.PMobject \"manim.mobject.types.point_cloud_mobject.PMobject\") | A disc made of a cloud of Dots |\n| [`Point`](manim.mobject.types.point_cloud_mobject.Point.html#manim.mobject.types.point_cloud_mobject.Point \"manim.mobject.types.point_cloud_mobject.Point\") | A mobject representing a point. |\n| [`PointCloudDot`](manim.mobject.types.point_cloud_mobject.PointCloudDot.html#manim.mobject.types.point_cloud_mobject.PointCloudDot \"manim.mobject.types.point_cloud_mobject.PointCloudDot\") | A disc made of a cloud of dots. |",
+  "scraped_at": "2025-06-24T17:58:49.105636",
+  "content_length": 1436,
+  "domain": "docs.manim.community",
+  "word_count": 73,
+  "inspection_status": "approved",
+  "filename": "point_cloud_mobject - Manim Community v0.19.0_20250624_175849.json",
+  "saved_at": "2025-06-24T17:58:49.105684",
+  "approved_at": "2025-06-25T17:18:58.438507"
+}

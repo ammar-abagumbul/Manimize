@@ -1,0 +1,14 @@
+{
+  "doc_id": "889bb68dab921c9d11a72256defbd84f",
+  "url": "https://docs.manim.community/en/latest/reference/manim.cli.html",
+  "title": "cli - Manim Community v0.19.0",
+  "content": "cli[¶](#module-manim.cli \"Link to this heading\")\n================================================\nThe Manim CLI, and the available commands for `manim`.\nThis page is a work in progress. Please run `manim` or `manim --help` in\nyour terminal to find more information on the following commands.\nAvailable commands[¶](#available-commands \"Link to this heading\")\n-----------------------------------------------------------------\n| [`cfg`](manim.cli.cfg.html#module-manim.cli.cfg \"manim.cli.cfg\") |  |\n| --- | --- |\n| [`checkhealth`](manim.cli.checkhealth.html#module-manim.cli.checkhealth \"manim.cli.checkhealth\") |  |\n| [`init`](manim.cli.init.html#module-manim.cli.init \"manim.cli.init\") |  |\n| [`plugins`](manim.cli.plugins.html#module-manim.cli.plugins \"manim.cli.plugins\") |  |\n| [`render`](manim.cli.render.html#module-manim.cli.render \"manim.cli.render\") |  |\nAvailable commands[¶](#available-commands \"Link to this heading\")\n-----------------------------------------------------------------\n| [`cfg`](manim.cli.cfg.html#module-manim.cli.cfg \"manim.cli.cfg\") |  |\n| --- | --- |\n| [`checkhealth`](manim.cli.checkhealth.html#module-manim.cli.checkhealth \"manim.cli.checkhealth\") |  |\n| [`init`](manim.cli.init.html#module-manim.cli.init \"manim.cli.init\") |  |\n| [`plugins`](manim.cli.plugins.html#module-manim.cli.plugins \"manim.cli.plugins\") |  |\n| [`render`](manim.cli.render.html#module-manim.cli.render \"manim.cli.render\") |  |",
+  "scraped_at": "2025-06-24T18:34:38.375804",
+  "content_length": 1431,
+  "domain": "docs.manim.community",
+  "word_count": 113,
+  "inspection_status": "approved",
+  "filename": "cli - Manim Community v0.19.0_20250624_183438.json",
+  "saved_at": "2025-06-24T18:34:38.375853",
+  "approved_at": "2025-06-25T17:18:58.295142"
+}

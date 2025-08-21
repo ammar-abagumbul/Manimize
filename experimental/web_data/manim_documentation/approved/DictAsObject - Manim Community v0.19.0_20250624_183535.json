@@ -1,0 +1,14 @@
+{
+  "doc_id": "de6ca4d9a1bc78a025db6dce04bf941a",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.config_ops.DictAsObject.html",
+  "title": "DictAsObject - Manim Community v0.19.0",
+  "content": "DictAsObject[¶](#dictasobject \"Link to this heading\")\n=====================================================\nQualified name: `manim.utils.config\\_ops.DictAsObject`\n*class* DictAsObject(*dictin*)[\\[source]](../_modules/manim/utils/config_ops.html#DictAsObject)[¶](#manim.utils.config_ops.DictAsObject \"Link to this definition\")\nBases: `object`\nMethods\nParameters:\n**dictin** (*dict**\\[**str**,* *Any**]*)",
+  "scraped_at": "2025-06-24T18:35:35.630418",
+  "content_length": 402,
+  "domain": "docs.manim.community",
+  "word_count": 22,
+  "inspection_status": "approved",
+  "filename": "DictAsObject - Manim Community v0.19.0_20250624_183535.json",
+  "saved_at": "2025-06-24T18:35:35.630469",
+  "approved_at": "2025-06-25T17:18:58.412049"
+}

@@ -1,0 +1,14 @@
+{
+  "doc_id": "7940413158c6445155c962a5a0f09639",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.graphing.number_line.UnitInterval.html",
+  "title": "UnitInterval - Manim Community v0.19.0",
+  "content": "UnitInterval[¶](#unitinterval \"Link to this heading\")\n=====================================================\nQualified name: `manim.mobject.graphing.number\\_line.UnitInterval`\n*class* UnitInterval(*unit\\_size\\=10*, *numbers\\_with\\_elongated\\_ticks\\=None*, *decimal\\_number\\_config\\=None*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/graphing/number_line.html#UnitInterval)[¶](#manim.mobject.graphing.number_line.UnitInterval \"Link to this definition\")\nBases: [`NumberLine`](manim.mobject.graphing.number_line.NumberLine.html#manim.mobject.graphing.number_line.NumberLine \"manim.mobject.graphing.number_line.NumberLine\")\nMethods\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `color` |  |\n| `depth` | The depth of the mobject. |\n| `fill_color` | If there are multiple colors (for gradient) this returns the first one |\n| `height` | The height of the mobject. |\n| `n_points_per_curve` |  |\n| `sheen_factor` |  |\n| `stroke_color` |  |\n| `width` | The width of the mobject. |\n\\_original\\_\\_init\\_\\_(*unit\\_size\\=10*, *numbers\\_with\\_elongated\\_ticks\\=None*, *decimal\\_number\\_config\\=None*, *\\*\\*kwargs*)[¶](#manim.mobject.graphing.number_line.UnitInterval._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.",
+  "scraped_at": "2025-06-24T17:55:33.211441",
+  "content_length": 1347,
+  "domain": "docs.manim.community",
+  "word_count": 120,
+  "inspection_status": "approved",
+  "filename": "UnitInterval - Manim Community v0.19.0_20250624_175533.json",
+  "saved_at": "2025-06-24T17:55:33.211503",
+  "approved_at": "2025-06-25T17:18:58.463017"
+}

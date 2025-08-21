@@ -39,6 +39,9 @@ manim_file = Path(MANIM_FILE)
 
 openai = "openai/gpt-4.1"
 
+assert AZURE_API is not None, "AZURE_API environment variable must be set"
+print(f"Using Azure API: {AZURE_API}")
+
 model = AzureAIChatCompletionsModel(
     model=openai,
     endpoint="https://models.github.ai/inference",

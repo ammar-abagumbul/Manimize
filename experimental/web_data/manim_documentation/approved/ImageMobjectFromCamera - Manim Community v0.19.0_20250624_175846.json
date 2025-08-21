@@ -1,0 +1,14 @@
+{
+  "doc_id": "96da51365a1b6ccf04260949e78d400b",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.types.image_mobject.ImageMobjectFromCamera.html",
+  "title": "ImageMobjectFromCamera - Manim Community v0.19.0",
+  "content": "ImageMobjectFromCamera[¶](#imagemobjectfromcamera \"Link to this heading\")\n=========================================================================\nQualified name: `manim.mobject.types.image\\_mobject.ImageMobjectFromCamera`\n*class* ImageMobjectFromCamera(*camera*, *default\\_display\\_frame\\_config\\=None*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/types/image_mobject.html#ImageMobjectFromCamera)[¶](#manim.mobject.types.image_mobject.ImageMobjectFromCamera \"Link to this definition\")\nBases: [`AbstractImageMobject`](manim.mobject.types.image_mobject.AbstractImageMobject.html#manim.mobject.types.image_mobject.AbstractImageMobject \"manim.mobject.types.image_mobject.AbstractImageMobject\")\nMethods\n| `add_display_frame` |  |\n| --- | --- |\n| `get_pixel_array` |  |\n| `interpolate_color` |  |\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `depth` | The depth of the mobject. |\n| `height` | The height of the mobject. |\n| `width` | The width of the mobject. |\nParameters:\n* **default\\_display\\_frame\\_config** (*dict**\\[**str**,* *Any**]* *\\|* *None*)\n* **kwargs** (*Any*)\n\\_original\\_\\_init\\_\\_(*camera*, *default\\_display\\_frame\\_config\\=None*, *\\*\\*kwargs*)[¶](#manim.mobject.types.image_mobject.ImageMobjectFromCamera._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **default\\_display\\_frame\\_config** (*dict**\\[**str**,* *Any**]* *\\|* *None*)\n* **kwargs** (*Any*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:58:46.848488",
+  "content_length": 1548,
+  "domain": "docs.manim.community",
+  "word_count": 126,
+  "inspection_status": "approved",
+  "filename": "ImageMobjectFromCamera - Manim Community v0.19.0_20250624_175846.json",
+  "saved_at": "2025-06-24T17:58:46.848544",
+  "approved_at": "2025-06-25T17:18:58.351708"
+}

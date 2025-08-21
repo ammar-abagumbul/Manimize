@@ -1,0 +1,14 @@
+{
+  "doc_id": "9171143030edc2cb42be6023edb5a5ef",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.indication.ShowPassingFlashWithThinningStrokeWidth.html",
+  "title": "ShowPassingFlashWithThinningStrokeWidth - Manim Community v0.19.0",
+  "content": "ShowPassingFlashWithThinningStrokeWidth[¶](#showpassingflashwiththinningstrokewidth \"Link to this heading\")\n===========================================================================================================\nQualified name: `manim.animation.indication.ShowPassingFlashWithThinningStrokeWidth`\n*class* ShowPassingFlashWithThinningStrokeWidth(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/indication.html#ShowPassingFlashWithThinningStrokeWidth)[¶](#manim.animation.indication.ShowPassingFlashWithThinningStrokeWidth \"Link to this definition\")\nBases: [`AnimationGroup`](manim.animation.composition.AnimationGroup.html#manim.animation.composition.AnimationGroup \"manim.animation.composition.AnimationGroup\")\nMethods\nAttributes\n| `run_time` |  |\n| --- | --- |\n\\_original\\_\\_init\\_\\_(*vmobject*, *n\\_segments\\=10*, *time\\_width\\=0\\.1*, *remover\\=True*, *\\*\\*kwargs*)[¶](#manim.animation.indication.ShowPassingFlashWithThinningStrokeWidth._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.",
+  "scraped_at": "2025-06-24T17:42:23.975745",
+  "content_length": 1104,
+  "domain": "docs.manim.community",
+  "word_count": 48,
+  "inspection_status": "approved",
+  "filename": "ShowPassingFlashWithThinningStrokeWidth - Manim Community v0.19.0_20250624_174223.json",
+  "saved_at": "2025-06-24T17:42:23.975789",
+  "approved_at": "2025-06-25T17:18:58.402508"
+}

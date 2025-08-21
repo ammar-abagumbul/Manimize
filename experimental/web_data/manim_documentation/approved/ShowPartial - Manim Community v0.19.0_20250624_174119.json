@@ -1,0 +1,14 @@
+{
+  "doc_id": "65119ba25f3b0827af22da2d76f1d113",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.creation.ShowPartial.html",
+  "title": "ShowPartial - Manim Community v0.19.0",
+  "content": "ShowPartial[¶](#showpartial \"Link to this heading\")\n===================================================\nQualified name: `manim.animation.creation.ShowPartial`\n*class* ShowPartial(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/creation.html#ShowPartial)[¶](#manim.animation.creation.ShowPartial \"Link to this definition\")\nBases: [`Animation`](manim.animation.animation.Animation.html#manim.animation.animation.Animation \"manim.animation.animation.Animation\")\nAbstract class for Animations that show the VMobject partially.\nRaises:\n**TypeError** – If `mobject` is not an instance of [`VMobject`](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\").\nParameters:\n**mobject** ([*VMobject*](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\") *\\|* *OpenGLVMobject* *\\|* *OpenGLSurface* *\\|* *None*)\nSee also\n[`Create`](manim.animation.creation.Create.html#manim.animation.creation.Create \"manim.animation.creation.Create\"), [`ShowPassingFlash`](manim.animation.indication.ShowPassingFlash.html#manim.animation.indication.ShowPassingFlash \"manim.animation.indication.ShowPassingFlash\")\nMethods\n| `interpolate_submobject` |  |\n| --- | --- |\nAttributes\n| `run_time` |  |\n| --- | --- |\n\\_original\\_\\_init\\_\\_(*mobject*, *\\*\\*kwargs*)[¶](#manim.animation.creation.ShowPartial._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n**mobject** ([*VMobject*](manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject \"manim.mobject.types.vectorized_mobject.VMobject\") *\\|* *OpenGLVMobject* *\\|* *OpenGLSurface* *\\|* *None*)",
+  "scraped_at": "2025-06-24T17:41:19.139953",
+  "content_length": 1873,
+  "domain": "docs.manim.community",
+  "word_count": 101,
+  "inspection_status": "approved",
+  "filename": "ShowPartial - Manim Community v0.19.0_20250624_174119.json",
+  "saved_at": "2025-06-24T17:41:19.140059",
+  "approved_at": "2025-06-25T17:18:58.417101"
+}

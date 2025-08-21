@@ -1,0 +1,14 @@
+{
+  "doc_id": "213c147c7379cf10dba5facb57dfb65b",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.vector_field.html",
+  "title": "vector_field - Manim Community v0.19.0",
+  "content": "vector\\_field[¶](#module-manim.mobject.vector_field \"Link to this heading\")\n===========================================================================\nMobjects representing vector fields.\nClasses\n| [`ArrowVectorField`](manim.mobject.vector_field.ArrowVectorField.html#manim.mobject.vector_field.ArrowVectorField \"manim.mobject.vector_field.ArrowVectorField\") | A [`VectorField`](manim.mobject.vector_field.VectorField.html#manim.mobject.vector_field.VectorField \"manim.mobject.vector_field.VectorField\") represented by a set of change vectors. |\n| --- | --- |\n| [`StreamLines`](manim.mobject.vector_field.StreamLines.html#manim.mobject.vector_field.StreamLines \"manim.mobject.vector_field.StreamLines\") | StreamLines represent the flow of a [`VectorField`](manim.mobject.vector_field.VectorField.html#manim.mobject.vector_field.VectorField \"manim.mobject.vector_field.VectorField\") using the trace of moving agents. |\n| [`VectorField`](manim.mobject.vector_field.VectorField.html#manim.mobject.vector_field.VectorField \"manim.mobject.vector_field.VectorField\") | A vector field. |",
+  "scraped_at": "2025-06-24T17:59:36.801662",
+  "content_length": 1081,
+  "domain": "docs.manim.community",
+  "word_count": 58,
+  "inspection_status": "approved",
+  "filename": "vector_field - Manim Community v0.19.0_20250624_175936.json",
+  "saved_at": "2025-06-24T17:59:36.801709",
+  "approved_at": "2025-06-25T17:18:58.299084"
+}

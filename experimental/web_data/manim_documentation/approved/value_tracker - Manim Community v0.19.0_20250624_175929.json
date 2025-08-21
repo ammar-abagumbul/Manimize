@@ -1,0 +1,14 @@
+{
+  "doc_id": "60eefca3a86fd38390bc75e72d474b25",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.value_tracker.html",
+  "title": "value_tracker - Manim Community v0.19.0",
+  "content": "value\\_tracker[¶](#module-manim.mobject.value_tracker \"Link to this heading\")\n=============================================================================\nSimple mobjects that can be used for storing (and updating) a value.\nClasses\n| [`ComplexValueTracker`](manim.mobject.value_tracker.ComplexValueTracker.html#manim.mobject.value_tracker.ComplexValueTracker \"manim.mobject.value_tracker.ComplexValueTracker\") | Tracks a complex\\-valued parameter. |\n| --- | --- |\n| [`ValueTracker`](manim.mobject.value_tracker.ValueTracker.html#manim.mobject.value_tracker.ValueTracker \"manim.mobject.value_tracker.ValueTracker\") | A mobject that can be used for tracking (real\\-valued) parameters. |",
+  "scraped_at": "2025-06-24T17:59:29.061105",
+  "content_length": 685,
+  "domain": "docs.manim.community",
+  "word_count": 48,
+  "inspection_status": "approved",
+  "filename": "value_tracker - Manim Community v0.19.0_20250624_175929.json",
+  "saved_at": "2025-06-24T17:59:29.061150",
+  "approved_at": "2025-06-25T17:18:58.378882"
+}

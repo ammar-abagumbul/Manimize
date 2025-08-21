@@ -1,0 +1,14 @@
+{
+  "doc_id": "b277bcafb0dd137267c5085722489d45",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.docbuild.autocolor_directive.html",
+  "title": "autocolor_directive - Manim Community v0.19.0",
+  "content": "autocolor\\_directive[¶](#module-manim.utils.docbuild.autocolor_directive \"Link to this heading\")\n================================================================================================\nA directive for documenting colors in Manim.\nClasses\n| [`ManimColorModuleDocumenter`](manim.utils.docbuild.autocolor_directive.ManimColorModuleDocumenter.html#manim.utils.docbuild.autocolor_directive.ManimColorModuleDocumenter \"manim.utils.docbuild.autocolor_directive.ManimColorModuleDocumenter\") |  |\n| --- | --- |\nFunctions\nsetup(*app*)[\\[source]](../_modules/manim/utils/docbuild/autocolor_directive.html#setup)[¶](#manim.utils.docbuild.autocolor_directive.setup \"Link to this definition\")\nParameters:\n**app** (*Sphinx*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T18:36:04.643266",
+  "content_length": 736,
+  "domain": "docs.manim.community",
+  "word_count": 36,
+  "inspection_status": "approved",
+  "filename": "autocolor_directive - Manim Community v0.19.0_20250624_183604.json",
+  "saved_at": "2025-06-24T18:36:04.643310",
+  "approved_at": "2025-06-25T17:18:58.401121"
+}

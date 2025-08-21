@@ -1,4 +1,4 @@
-from base import BaseLLM
+from .base import BaseLLM
 from openai import OpenAI
 
 class OpenAILLM(BaseLLM):

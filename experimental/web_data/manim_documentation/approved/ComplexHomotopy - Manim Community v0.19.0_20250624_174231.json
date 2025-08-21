@@ -1,0 +1,14 @@
+{
+  "doc_id": "52836e85a5db4f1b61811399e245c57c",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.movement.ComplexHomotopy.html",
+  "title": "ComplexHomotopy - Manim Community v0.19.0",
+  "content": "ComplexHomotopy[¶](#complexhomotopy \"Link to this heading\")\n===========================================================\nQualified name: `manim.animation.movement.ComplexHomotopy`\n*class* ComplexHomotopy(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/movement.html#ComplexHomotopy)[¶](#manim.animation.movement.ComplexHomotopy \"Link to this definition\")\nBases: [`Homotopy`](manim.animation.movement.Homotopy.html#manim.animation.movement.Homotopy \"manim.animation.movement.Homotopy\")\nComplex Homotopy a function Cx\\[0, 1] to C\nMethods\nAttributes\n| `run_time` |  |\n| --- | --- |\nParameters:\n* **complex\\_homotopy** (*Callable**\\[**\\[**complex**]**,* *float**]*)\n* **mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\n\\_original\\_\\_init\\_\\_(*complex\\_homotopy*, *mobject*, *\\*\\*kwargs*)[¶](#manim.animation.movement.ComplexHomotopy._original__init__ \"Link to this definition\")\nComplex Homotopy a function Cx\\[0, 1] to C\nParameters:\n* **complex\\_homotopy** (*Callable**\\[**\\[**complex**]**,* *float**]*)\n* **mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:42:31.726887",
+  "content_length": 1270,
+  "domain": "docs.manim.community",
+  "word_count": 76,
+  "inspection_status": "approved",
+  "filename": "ComplexHomotopy - Manim Community v0.19.0_20250624_174231.json",
+  "saved_at": "2025-06-24T17:42:31.726936",
+  "approved_at": "2025-06-25T17:18:58.397054"
+}

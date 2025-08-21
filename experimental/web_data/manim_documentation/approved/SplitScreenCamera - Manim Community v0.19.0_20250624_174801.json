@@ -1,0 +1,14 @@
+{
+  "doc_id": "fbc41bbe748fc2f5ba338aa3fc015923",
+  "url": "https://docs.manim.community/en/latest/reference/manim.camera.mapping_camera.SplitScreenCamera.html",
+  "title": "SplitScreenCamera - Manim Community v0.19.0",
+  "content": "SplitScreenCamera[¶](#splitscreencamera \"Link to this heading\")\n===============================================================\nQualified name: `manim.camera.mapping\\_camera.SplitScreenCamera`\n*class* SplitScreenCamera(*left\\_camera*, *right\\_camera*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/camera/mapping_camera.html#SplitScreenCamera)[¶](#manim.camera.mapping_camera.SplitScreenCamera \"Link to this definition\")\nBases: [`OldMultiCamera`](manim.camera.mapping_camera.OldMultiCamera.html#manim.camera.mapping_camera.OldMultiCamera \"manim.camera.mapping_camera.OldMultiCamera\")\nMethods\nAttributes\n| `background_color` |  |\n| --- | --- |\n| `background_opacity` |  |",
+  "scraped_at": "2025-06-24T17:48:01.688877",
+  "content_length": 667,
+  "domain": "docs.manim.community",
+  "word_count": 35,
+  "inspection_status": "approved",
+  "filename": "SplitScreenCamera - Manim Community v0.19.0_20250624_174801.json",
+  "saved_at": "2025-06-24T17:48:01.688931",
+  "approved_at": "2025-06-25T17:18:58.383703"
+}

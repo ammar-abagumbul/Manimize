@@ -1,0 +1,14 @@
+{
+  "doc_id": "de42234095c03bc2e31bf403815fde98",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.graphing.number_line.html",
+  "title": "number_line - Manim Community v0.19.0",
+  "content": "number\\_line[¶](#module-manim.mobject.graphing.number_line \"Link to this heading\")\n==================================================================================\nMobject representing a number line.\nClasses\n| [`NumberLine`](manim.mobject.graphing.number_line.NumberLine.html#manim.mobject.graphing.number_line.NumberLine \"manim.mobject.graphing.number_line.NumberLine\") | Creates a number line with tick marks. |\n| --- | --- |\n| [`UnitInterval`](manim.mobject.graphing.number_line.UnitInterval.html#manim.mobject.graphing.number_line.UnitInterval \"manim.mobject.graphing.number_line.UnitInterval\") |  |",
+  "scraped_at": "2025-06-24T17:55:28.085776",
+  "content_length": 605,
+  "domain": "docs.manim.community",
+  "word_count": 34,
+  "inspection_status": "approved",
+  "filename": "number_line - Manim Community v0.19.0_20250624_175528.json",
+  "saved_at": "2025-06-24T17:55:28.085818",
+  "approved_at": "2025-06-25T17:18:58.294239"
+}

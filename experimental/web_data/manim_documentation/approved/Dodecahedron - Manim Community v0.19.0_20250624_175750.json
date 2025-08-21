@@ -1,0 +1,14 @@
+{
+  "doc_id": "9a1096a34fc84d443b3dc5d6c94355eb",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.three_d.polyhedra.Dodecahedron.html",
+  "title": "Dodecahedron - Manim Community v0.19.0",
+  "content": "Dodecahedron[¶](#dodecahedron \"Link to this heading\")\n=====================================================\nQualified name: `manim.mobject.three\\_d.polyhedra.Dodecahedron`\n*class* Dodecahedron(*edge\\_length\\=1*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/mobject/three_d/polyhedra.html#Dodecahedron)[¶](#manim.mobject.three_d.polyhedra.Dodecahedron \"Link to this definition\")\nBases: [`Polyhedron`](manim.mobject.three_d.polyhedra.Polyhedron.html#manim.mobject.three_d.polyhedra.Polyhedron \"manim.mobject.three_d.polyhedra.Polyhedron\")\nA dodecahedron, one of the five platonic solids. It has 12 faces, 30 edges and 20 vertices.\nParameters:\n**edge\\_length** (*float*) – The length of an edge between any two vertices.\nExamples\nExample: DodecahedronScene [¶](#dodecahedronscene)\n![../_images/DodecahedronScene-1.png](../_images/DodecahedronScene-1.png)\n```\nfrom manim import *\nclass DodecahedronScene(ThreeDScene):\n    def construct(self):\n        self.set_camera_orientation(phi=75 * DEGREES, theta=30 * DEGREES)\n        obj = Dodecahedron()\n        self.add(obj)\n```\n```\nclass DodecahedronScene(ThreeDScene):\n    def construct(self):\n        self.set_camera_orientation(phi=75 * DEGREES, theta=30 * DEGREES)\n        obj = Dodecahedron()\n        self.add(obj)\n```\nMethods\nAttributes\n| `animate` | Used to animate the application of any method of `self`. |\n| --- | --- |\n| `animation_overrides` |  |\n| `color` |  |\n| `depth` | The depth of the mobject. |\n| `fill_color` | If there are multiple colors (for gradient) this returns the first one |\n| `height` | The height of the mobject. |\n| `n_points_per_curve` |  |\n| `sheen_factor` |  |\n| `stroke_color` |  |\n| `width` | The width of the mobject. |\n\\_original\\_\\_init\\_\\_(*edge\\_length\\=1*, *\\*\\*kwargs*)[¶](#manim.mobject.three_d.polyhedra.Dodecahedron._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n**edge\\_length** (*float*)",
+  "scraped_at": "2025-06-24T17:57:50.274360",
+  "content_length": 1946,
+  "domain": "docs.manim.community",
+  "word_count": 190,
+  "inspection_status": "approved",
+  "filename": "Dodecahedron - Manim Community v0.19.0_20250624_175750.json",
+  "saved_at": "2025-06-24T17:57:50.274416",
+  "approved_at": "2025-06-25T17:18:58.455105"
+}

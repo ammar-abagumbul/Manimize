@@ -1,0 +1,14 @@
+{
+  "doc_id": "008da6d7b16bbe830be5f61da2faf6a4",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.graphing.coordinate_systems.html",
+  "title": "coordinate_systems - Manim Community v0.19.0",
+  "content": "coordinate\\_systems[¶](#module-manim.mobject.graphing.coordinate_systems \"Link to this heading\")\n================================================================================================\nMobjects that represent coordinate systems.\nTypeVar’s\n*class* LineType[¶](#manim.mobject.graphing.coordinate_systems.LineType \"Link to this definition\")\n```\nTypeVar('LineType', bound=Line)\n```\nClasses\n| [`Axes`](manim.mobject.graphing.coordinate_systems.Axes.html#manim.mobject.graphing.coordinate_systems.Axes \"manim.mobject.graphing.coordinate_systems.Axes\") | Creates a set of axes. |\n| --- | --- |\n| [`ComplexPlane`](manim.mobject.graphing.coordinate_systems.ComplexPlane.html#manim.mobject.graphing.coordinate_systems.ComplexPlane \"manim.mobject.graphing.coordinate_systems.ComplexPlane\") | A [`NumberPlane`](manim.mobject.graphing.coordinate_systems.NumberPlane.html#manim.mobject.graphing.coordinate_systems.NumberPlane \"manim.mobject.graphing.coordinate_systems.NumberPlane\") specialized for use with complex numbers. |\n| [`CoordinateSystem`](manim.mobject.graphing.coordinate_systems.CoordinateSystem.html#manim.mobject.graphing.coordinate_systems.CoordinateSystem \"manim.mobject.graphing.coordinate_systems.CoordinateSystem\") | Abstract base class for Axes and NumberPlane. |\n| [`NumberPlane`](manim.mobject.graphing.coordinate_systems.NumberPlane.html#manim.mobject.graphing.coordinate_systems.NumberPlane \"manim.mobject.graphing.coordinate_systems.NumberPlane\") | Creates a cartesian plane with background lines. |\n| [`PolarPlane`](manim.mobject.graphing.coordinate_systems.PolarPlane.html#manim.mobject.graphing.coordinate_systems.PolarPlane \"manim.mobject.graphing.coordinate_systems.PolarPlane\") | Creates a polar plane with background lines. |\n| [`ThreeDAxes`](manim.mobject.graphing.coordinate_systems.ThreeDAxes.html#manim.mobject.graphing.coordinate_systems.ThreeDAxes \"manim.mobject.graphing.coordinate_systems.ThreeDAxes\") | A 3\\-dimensional set of axes. |\nTypeVar’s\n*class* LineType[¶](#manim.mobject.graphing.coordinate_systems.LineType \"Link to this definition\")\n```\nTypeVar('LineType', bound=Line)\n```",
+  "scraped_at": "2025-06-24T17:51:44.911662",
+  "content_length": 2120,
+  "domain": "docs.manim.community",
+  "word_count": 109,
+  "inspection_status": "approved",
+  "filename": "coordinate_systems - Manim Community v0.19.0_20250624_175144.json",
+  "saved_at": "2025-06-24T17:51:44.911754",
+  "approved_at": "2025-06-25T17:18:58.263211"
+}

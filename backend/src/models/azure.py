@@ -1,4 +1,4 @@
-from base import BaseLLM
+from .base import BaseLLM
 from azure.ai.inference import ChatCompletionsClient
 from azure.core.credentials import AzureKeyCredential
 

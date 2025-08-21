@@ -1,0 +1,14 @@
+{
+  "doc_id": "3a6261552040373699f15154feaf2199",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.composition.html",
+  "title": "composition - Manim Community v0.19.0",
+  "content": "composition[¶](#module-manim.animation.composition \"Link to this heading\")\n==========================================================================\nTools for displaying multiple animations at once.\nClasses\n| [`AnimationGroup`](manim.animation.composition.AnimationGroup.html#manim.animation.composition.AnimationGroup \"manim.animation.composition.AnimationGroup\") | Plays a group or series of [`Animation`](manim.animation.animation.Animation.html#manim.animation.animation.Animation \"manim.animation.animation.Animation\"). |\n| --- | --- |\n| [`LaggedStart`](manim.animation.composition.LaggedStart.html#manim.animation.composition.LaggedStart \"manim.animation.composition.LaggedStart\") | Adjusts the timing of a series of [`Animation`](manim.animation.animation.Animation.html#manim.animation.animation.Animation \"manim.animation.animation.Animation\") according to `lag_ratio`. |\n| [`LaggedStartMap`](manim.animation.composition.LaggedStartMap.html#manim.animation.composition.LaggedStartMap \"manim.animation.composition.LaggedStartMap\") | Plays a series of [`Animation`](manim.animation.animation.Animation.html#manim.animation.animation.Animation \"manim.animation.animation.Animation\") while mapping a function to submobjects. |\n| [`Succession`](manim.animation.composition.Succession.html#manim.animation.composition.Succession \"manim.animation.composition.Succession\") | Plays a series of animations in succession. |",
+  "scraped_at": "2025-06-24T17:40:48.519348",
+  "content_length": 1422,
+  "domain": "docs.manim.community",
+  "word_count": 78,
+  "inspection_status": "approved",
+  "filename": "composition - Manim Community v0.19.0_20250624_174048.json",
+  "saved_at": "2025-06-24T17:40:48.519392",
+  "approved_at": "2025-06-25T17:18:58.307968"
+}

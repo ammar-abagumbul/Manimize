@@ -1,0 +1,14 @@
+{
+  "doc_id": "b1318a3693bdd21da4625c6d32bdf2d5",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.fading.html",
+  "title": "fading - Manim Community v0.19.0",
+  "content": "fading[¶](#module-manim.animation.fading \"Link to this heading\")\n================================================================\nFading in and out of view.\nExample: Fading [¶](#fading)\n```\nfrom manim import *\nclass Fading(Scene):\n    def construct(self):\n        tex_in = Tex(\"Fade\", \"In\").scale(3)\n        tex_out = Tex(\"Fade\", \"Out\").scale(3)\n        self.play(FadeIn(tex_in, shift=DOWN, scale=0.66))\n        self.play(ReplacementTransform(tex_in, tex_out))\n        self.play(FadeOut(tex_out, shift=DOWN * 2, scale=1.5))\n```\n```\nclass Fading(Scene):\n    def construct(self):\n        tex_in = Tex(\"Fade\", \"In\").scale(3)\n        tex_out = Tex(\"Fade\", \"Out\").scale(3)\n        self.play(FadeIn(tex_in, shift=DOWN, scale=0.66))\n        self.play(ReplacementTransform(tex_in, tex_out))\n        self.play(FadeOut(tex_out, shift=DOWN * 2, scale=1.5))\n```\nClasses\n| [`FadeIn`](manim.animation.fading.FadeIn.html#manim.animation.fading.FadeIn \"manim.animation.fading.FadeIn\") | Fade in [`Mobject`](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\") s. |\n| --- | --- |\n| [`FadeOut`](manim.animation.fading.FadeOut.html#manim.animation.fading.FadeOut \"manim.animation.fading.FadeOut\") | Fade out [`Mobject`](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\") s. |",
+  "scraped_at": "2025-06-24T17:41:40.112120",
+  "content_length": 1348,
+  "domain": "docs.manim.community",
+  "word_count": 93,
+  "inspection_status": "approved",
+  "filename": "fading - Manim Community v0.19.0_20250624_174140.json",
+  "saved_at": "2025-06-24T17:41:40.112162",
+  "approved_at": "2025-06-25T17:18:58.350907"
+}

@@ -1,0 +1,14 @@
+{
+  "doc_id": "2f5588c0d53a43000e9e9d5de63a183e",
+  "url": "https://docs.manim.community/en/latest/reference/manim.mobject.three_d.html",
+  "title": "three_d - Manim Community v0.19.0",
+  "content": "three\\_d[¶](#module-manim.mobject.three_d \"Link to this heading\")\n=================================================================\nThree\\-dimensional mobjects.\nModules[¶](#modules \"Link to this heading\")\n-------------------------------------------\n| [`polyhedra`](manim.mobject.three_d.polyhedra.html#module-manim.mobject.three_d.polyhedra \"manim.mobject.three_d.polyhedra\") | General polyhedral class and platonic solids. |\n| --- | --- |\n| [`three_d_utils`](manim.mobject.three_d.three_d_utils.html#module-manim.mobject.three_d.three_d_utils \"manim.mobject.three_d.three_d_utils\") | Utility functions for three\\-dimensional mobjects. |\n| [`three_dimensions`](manim.mobject.three_d.three_dimensions.html#module-manim.mobject.three_d.three_dimensions \"manim.mobject.three_d.three_dimensions\") | Three\\-dimensional mobjects. |\nModules[¶](#modules \"Link to this heading\")\n-------------------------------------------\n| [`polyhedra`](manim.mobject.three_d.polyhedra.html#module-manim.mobject.three_d.polyhedra \"manim.mobject.three_d.polyhedra\") | General polyhedral class and platonic solids. |\n| --- | --- |\n| [`three_d_utils`](manim.mobject.three_d.three_d_utils.html#module-manim.mobject.three_d.three_d_utils \"manim.mobject.three_d.three_d_utils\") | Utility functions for three\\-dimensional mobjects. |\n| [`three_dimensions`](manim.mobject.three_d.three_dimensions.html#module-manim.mobject.three_d.three_dimensions \"manim.mobject.three_d.three_dimensions\") | Three\\-dimensional mobjects. |",
+  "scraped_at": "2025-06-24T17:57:42.396681",
+  "content_length": 1490,
+  "domain": "docs.manim.community",
+  "word_count": 86,
+  "inspection_status": "approved",
+  "filename": "three_d - Manim Community v0.19.0_20250624_175742.json",
+  "saved_at": "2025-06-24T17:57:42.396727",
+  "approved_at": "2025-06-25T17:18:58.450920"
+}

@@ -1,0 +1,14 @@
+{
+  "doc_id": "d73046970fce8f317308db8f7654cbcf",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.growing.GrowArrow.html",
+  "title": "GrowArrow - Manim Community v0.19.0",
+  "content": "GrowArrow[¶](#growarrow \"Link to this heading\")\n===============================================\nQualified name: `manim.animation.growing.GrowArrow`\n*class* GrowArrow(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/growing.html#GrowArrow)[¶](#manim.animation.growing.GrowArrow \"Link to this definition\")\nBases: [`GrowFromPoint`](manim.animation.growing.GrowFromPoint.html#manim.animation.growing.GrowFromPoint \"manim.animation.growing.GrowFromPoint\")\nIntroduce an [`Arrow`](manim.mobject.geometry.line.Arrow.html#manim.mobject.geometry.line.Arrow \"manim.mobject.geometry.line.Arrow\") by growing it from its start toward its tip.\nParameters:\n* **arrow** ([*Arrow*](manim.mobject.geometry.line.Arrow.html#manim.mobject.geometry.line.Arrow \"manim.mobject.geometry.line.Arrow\")) – The arrow to be introduced.\n* **point\\_color** (*str*) – Initial color of the arrow before growing to its full size. Leave empty to match arrow’s color.\nExamples\nExample: GrowArrowExample [¶](#growarrowexample)\n```\nfrom manim import *\nclass GrowArrowExample(Scene):\n    def construct(self):\n        arrows = [Arrow(2 * LEFT, 2 * RIGHT), Arrow(2 * DR, 2 * UL)]\n        VGroup(*arrows).set_x(0).arrange(buff=2)\n        self.play(GrowArrow(arrows[0]))\n        self.play(GrowArrow(arrows[1], point_color=RED))\n```\n```\nclass GrowArrowExample(Scene):\n    def construct(self):\n        arrows = [Arrow(2 * LEFT, 2 * RIGHT), Arrow(2 * DR, 2 * UL)]\n        VGroup(*arrows).set_x(0).arrange(buff=2)\n        self.play(GrowArrow(arrows[0]))\n        self.play(GrowArrow(arrows[1], point_color=RED))\n```\nMethods\n| `create_starting_mobject` |  |\n| --- | --- |\nAttributes\n| `path_arc` |  |\n| --- | --- |\n| `path_func` |  |\n| `run_time` |  |\n\\_original\\_\\_init\\_\\_(*arrow*, *point\\_color\\=None*, *\\*\\*kwargs*)[¶](#manim.animation.growing.GrowArrow._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **arrow** ([*Arrow*](manim.mobject.geometry.line.Arrow.html#manim.mobject.geometry.line.Arrow \"manim.mobject.geometry.line.Arrow\"))\n* **point\\_color** (*str*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:41:50.500027",
+  "content_length": 2158,
+  "domain": "docs.manim.community",
+  "word_count": 175,
+  "inspection_status": "approved",
+  "filename": "GrowArrow - Manim Community v0.19.0_20250624_174150.json",
+  "saved_at": "2025-06-24T17:41:50.500071",
+  "approved_at": "2025-06-25T17:18:58.438793"
+}

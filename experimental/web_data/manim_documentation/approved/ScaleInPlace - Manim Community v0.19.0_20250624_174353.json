@@ -1,0 +1,14 @@
+{
+  "doc_id": "60f2b354cb294b9289a7c3221d412b03",
+  "url": "https://docs.manim.community/en/latest/reference/manim.animation.transform.ScaleInPlace.html",
+  "title": "ScaleInPlace - Manim Community v0.19.0",
+  "content": "ScaleInPlace[¶](#scaleinplace \"Link to this heading\")\n=====================================================\nQualified name: `manim.animation.transform.ScaleInPlace`\n*class* ScaleInPlace(*mobject\\=None*, *\\*args*, *use\\_override\\=True*, *\\*\\*kwargs*)[\\[source]](../_modules/manim/animation/transform.html#ScaleInPlace)[¶](#manim.animation.transform.ScaleInPlace \"Link to this definition\")\nBases: [`ApplyMethod`](manim.animation.transform.ApplyMethod.html#manim.animation.transform.ApplyMethod \"manim.animation.transform.ApplyMethod\")\nAnimation that scales a mobject by a certain factor.\nExamples\nExample: ScaleInPlaceExample [¶](#scaleinplaceexample)\n```\nfrom manim import *\nclass ScaleInPlaceExample(Scene):\n    def construct(self):\n        self.play(ScaleInPlace(Text(\"Hello World!\"), 2))\n```\n```\nclass ScaleInPlaceExample(Scene):\n    def construct(self):\n        self.play(ScaleInPlace(Text(\"Hello World!\"), 2))\n```\nMethods\nAttributes\n| `path_arc` |  |\n| --- | --- |\n| `path_func` |  |\n| `run_time` |  |\nParameters:\n* **mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\n* **scale\\_factor** (*float*)\n\\_original\\_\\_init\\_\\_(*mobject*, *scale\\_factor*, *\\*\\*kwargs*)[¶](#manim.animation.transform.ScaleInPlace._original__init__ \"Link to this definition\")\nInitialize self. See help(type(self)) for accurate signature.\nParameters:\n* **mobject** ([*Mobject*](manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject \"manim.mobject.mobject.Mobject\"))\n* **scale\\_factor** (*float*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T17:43:53.490514",
+  "content_length": 1574,
+  "domain": "docs.manim.community",
+  "word_count": 108,
+  "inspection_status": "approved",
+  "filename": "ScaleInPlace - Manim Community v0.19.0_20250624_174353.json",
+  "saved_at": "2025-06-24T17:43:53.490565",
+  "approved_at": "2025-06-25T17:18:58.403933"
+}

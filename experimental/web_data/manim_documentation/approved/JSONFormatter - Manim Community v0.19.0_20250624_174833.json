@@ -1,0 +1,14 @@
+{
+  "doc_id": "c346e55d22d330b11f1d37e1928e3268",
+  "url": "https://docs.manim.community/en/latest/reference/manim._config.logger_utils.JSONFormatter.html",
+  "title": "JSONFormatter - Manim Community v0.19.0",
+  "content": "JSONFormatter[¶](#jsonformatter \"Link to this heading\")\n=======================================================\nQualified name: `manim.\\_config.logger\\_utils.JSONFormatter`\n*class* JSONFormatter(*fmt\\=None*, *datefmt\\=None*, *style\\='%'*, *validate\\=True*, *\\**, *defaults\\=None*)[\\[source]](../_modules/manim/_config/logger_utils.html#JSONFormatter)[¶](#manim._config.logger_utils.JSONFormatter \"Link to this definition\")\nBases: `Formatter`\nA formatter that outputs logs in a custom JSON format.\nThis class is used internally for testing purposes.\nInitialize the formatter with specified format strings.\nInitialize the formatter either with the specified format string, or a\ndefault as described above. Allow for specialized date formatting with\nthe optional datefmt argument. If datefmt is omitted, you get an\nISO8601\\-like (or RFC 3339\\-like) format.\nUse a style parameter of ‘%’, ‘{’ or ‘$’ to specify that you want to\nuse one of %\\-formatting, `str.format()` (`{}`) formatting or\n`string.Template` formatting in your format string.\nChanged in version 3\\.2: Added the `style` parameter.\nMethods\n| [`format`](#manim._config.logger_utils.JSONFormatter.format \"manim._config.logger_utils.JSONFormatter.format\") | Format the record in a custom JSON format. |\n| --- | --- |\nAttributes\n| `default_msec_format` |  |\n| --- | --- |\n| `default_time_format` |  |\nformat(*record*)[\\[source]](../_modules/manim/_config/logger_utils.html#JSONFormatter.format)[¶](#manim._config.logger_utils.JSONFormatter.format \"Link to this definition\")\nFormat the record in a custom JSON format.\nParameters:\n**record** (*LogRecord*)\nReturn type:\nstr",
+  "scraped_at": "2025-06-24T17:48:33.936306",
+  "content_length": 1625,
+  "domain": "docs.manim.community",
+  "word_count": 173,
+  "inspection_status": "approved",
+  "filename": "JSONFormatter - Manim Community v0.19.0_20250624_174833.json",
+  "saved_at": "2025-06-24T17:48:33.936375",
+  "approved_at": "2025-06-25T17:18:58.313946"
+}

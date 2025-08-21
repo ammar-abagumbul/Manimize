@@ -1,0 +1,14 @@
+{
+  "doc_id": "872fd1fead4695f19a4ba33734c8a62e",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.docbuild.autoaliasattr_directive.html",
+  "title": "autoaliasattr_directive - Manim Community v0.19.0",
+  "content": "autoaliasattr\\_directive[¶](#module-manim.utils.docbuild.autoaliasattr_directive \"Link to this heading\")\n========================================================================================================\nA directive for documenting type aliases and other module\\-level attributes.\nClasses\n| [`AliasAttrDocumenter`](manim.utils.docbuild.autoaliasattr_directive.AliasAttrDocumenter.html#manim.utils.docbuild.autoaliasattr_directive.AliasAttrDocumenter \"manim.utils.docbuild.autoaliasattr_directive.AliasAttrDocumenter\") | Directive which replaces Sphinx's Autosummary for module\\-level attributes: instead, it manually crafts a new \"Type Aliases\" section, where all the module\\-level attributes which are explicitly annotated as `TypeAlias` are considered as such, for their use all around the Manim docs. |\n| --- | --- |\nFunctions\nsetup(*app*)[\\[source]](../_modules/manim/utils/docbuild/autoaliasattr_directive.html#setup)[¶](#manim.utils.docbuild.autoaliasattr_directive.setup \"Link to this definition\")\nParameters:\n**app** (*Sphinx*)\nReturn type:\nNone\nsmart\\_replace(*base*, *alias*, *substitution*)[\\[source]](../_modules/manim/utils/docbuild/autoaliasattr_directive.html#smart_replace)[¶](#manim.utils.docbuild.autoaliasattr_directive.smart_replace \"Link to this definition\")\nAuxiliary function for substituting type aliases into a base\nstring, when there are overlaps between the aliases themselves.\nParameters:\n* **base** (*str*) – The string in which the type aliases will be located and\nreplaced.\n* **alias** (*str*) – The substring to be substituted.\n* **substitution** (*str*) – The string which will replace every occurrence of `alias`.\nReturns:\nThe new string after the alias substitution.\nReturn type:\nstr",
+  "scraped_at": "2025-06-24T18:35:59.762702",
+  "content_length": 1724,
+  "domain": "docs.manim.community",
+  "word_count": 154,
+  "inspection_status": "approved",
+  "filename": "autoaliasattr_directive - Manim Community v0.19.0_20250624_183559.json",
+  "saved_at": "2025-06-24T18:35:59.762751",
+  "approved_at": "2025-06-25T17:18:58.401401"
+}

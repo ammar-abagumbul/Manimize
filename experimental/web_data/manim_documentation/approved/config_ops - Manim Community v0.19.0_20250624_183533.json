@@ -1,0 +1,14 @@
+{
+  "doc_id": "115ad20b425fcc0121d607a30d36990a",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.config_ops.html",
+  "title": "config_ops - Manim Community v0.19.0",
+  "content": "config\\_ops[¶](#module-manim.utils.config_ops \"Link to this heading\")\n=====================================================================\nUtilities that might be useful for configuration dictionaries.\nClasses\n| [`DictAsObject`](manim.utils.config_ops.DictAsObject.html#manim.utils.config_ops.DictAsObject \"manim.utils.config_ops.DictAsObject\") |  |\n| --- | --- |\nFunctions\nmerge\\_dicts\\_recursively(*\\*dicts*)[\\[source]](../_modules/manim/utils/config_ops.html#merge_dicts_recursively)[¶](#manim.utils.config_ops.merge_dicts_recursively \"Link to this definition\")\nCreates a dict whose keyset is the union of all the\ninput dictionaries. The value for each key is based\non the first dict in the list with that key.\ndicts later in the list have higher priority\nWhen values are dictionaries, it is applied recursively\nParameters:\n**dicts** (*dict**\\[**Any**,* *Any**]*)\nReturn type:\ndict\\[*Any*, *Any*]\nupdate\\_dict\\_recursively(*current\\_dict*, *\\*others*)[\\[source]](../_modules/manim/utils/config_ops.html#update_dict_recursively)[¶](#manim.utils.config_ops.update_dict_recursively \"Link to this definition\")\nParameters:\n* **current\\_dict** (*dict**\\[**Any**,* *Any**]*)\n* **others** (*dict**\\[**Any**,* *Any**]*)\nReturn type:\nNone",
+  "scraped_at": "2025-06-24T18:35:33.305043",
+  "content_length": 1232,
+  "domain": "docs.manim.community",
+  "word_count": 103,
+  "inspection_status": "approved",
+  "filename": "config_ops - Manim Community v0.19.0_20250624_183533.json",
+  "saved_at": "2025-06-24T18:35:33.305126",
+  "approved_at": "2025-06-25T17:18:58.370765"
+}

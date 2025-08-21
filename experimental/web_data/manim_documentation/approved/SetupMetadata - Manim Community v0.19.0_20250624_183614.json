@@ -1,0 +1,14 @@
+{
+  "doc_id": "2dd12e5c7f52e28bab4cfba4fef53502",
+  "url": "https://docs.manim.community/en/latest/reference/manim.utils.docbuild.manim_directive.SetupMetadata.html",
+  "title": "SetupMetadata - Manim Community v0.19.0",
+  "content": "SetupMetadata[¶](#setupmetadata \"Link to this heading\")\n=======================================================\nQualified name: `manim.utils.docbuild.manim\\_directive.SetupMetadata`\n*class* SetupMetadata[\\[source]](../_modules/manim/utils/docbuild/manim_directive.html#SetupMetadata)[¶](#manim.utils.docbuild.manim_directive.SetupMetadata \"Link to this definition\")\nBases: `TypedDict`\nMethods\nAttributes\n| `parallel_read_safe` |  |\n| --- | --- |\n| `parallel_write_safe` |  |",
+  "scraped_at": "2025-06-24T18:36:14.988093",
+  "content_length": 474,
+  "domain": "docs.manim.community",
+  "word_count": 32,
+  "inspection_status": "approved",
+  "filename": "SetupMetadata - Manim Community v0.19.0_20250624_183614.json",
+  "saved_at": "2025-06-24T18:36:14.988153",
+  "approved_at": "2025-06-25T17:18:58.309292"
+}

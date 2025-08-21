@@ -1,6 +1,10 @@
+import os
+from dotenv import load_dotenv
+
 from .model_config import ModelConfig
 from ..models import AzureAI, OpenAILLM
-import os
+
+load_dotenv()
 
 MODEL_REGISTRY = {
     "openai": ModelConfig(

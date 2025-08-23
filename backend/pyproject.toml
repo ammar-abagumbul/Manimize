@@ -14,4 +14,7 @@ dependencies = [
     "fastapi[standard]>=0.92.0",
     "uvicorn>=0.20.0",
     "pocketflow>=0.0.3",
+    "celery[redis]>=5.5.3",
+    "clear>=2.0.0",
+    "celery-types>=0.23.0",
 ]

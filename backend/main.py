@@ -8,10 +8,18 @@ from src.agent.nodes import (
     ManimExecutor,
 )
 
+from src.dcelery.tasks import render_manim_scene
+
 class ChatRequest(BaseModel):
     user_query: str
 
 app = FastAPI()
+
+@app.post("/render")
+async def test():
+    res = render_manim_scene.delay()
+    return {"result": res}
+
 
 @app.post("/")
 async def root(request: ChatRequest):

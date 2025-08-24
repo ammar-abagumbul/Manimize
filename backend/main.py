@@ -10,6 +10,15 @@ from src.agent.nodes import (
 
 from src.dcelery.tasks import render_manim_scene
 
+# --- set logging ---
+import logging
+from logging.config import dictConfig
+from config.dict_config import log_config
+
+dictConfig(log_config)
+
+logger = logging.getLogger("fastapi")
+
 class ChatRequest(BaseModel):
     user_query: str
 
@@ -20,6 +29,10 @@ async def test():
     res = render_manim_scene.delay()
     return {"result": res}
 
+@app.post("/test")
+async def anothertest():
+    logger.info("This endpoint is reached thankfully")
+    return {"result": "Testing and testing with the latest update"}
 
 @app.post("/")
 async def root(request: ChatRequest):

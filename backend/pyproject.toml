@@ -17,4 +17,5 @@ dependencies = [
     "celery[redis]>=5.5.3",
     "clear>=2.0.0",
     "celery-types>=0.23.0",
+    "alembic>=1.16.4",
 ]

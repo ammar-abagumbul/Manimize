@@ -1,14 +1,15 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Depends
 from pydantic import BaseModel
 from pocketflow import Flow
+from typing import Optional
 from src.agent.nodes import (
     GenerateOutlineNode,
     ManimCodeGenerationNode,
     ErrorResolver,
     ManimExecutor,
 )
-
-from src.dcelery.tasks import render_manim_scene
+from src.models.user import User
+from dependencies import get_current_user
 
 # --- set logging ---
 import logging
@@ -24,18 +25,8 @@ class ChatRequest(BaseModel):
 
 app = FastAPI()
 
-@app.post("/render")
-async def test():
-    res = render_manim_scene.delay()
-    return {"result": res}
-
-@app.post("/test")
-async def anothertest():
-    logger.info("This endpoint is reached thankfully")
-    return {"result": "Testing and testing with the latest update"}
-
 @app.post("/")
-async def root(request: ChatRequest):
+async def root(request: ChatRequest, user: Optional[User] = Depends(get_current_user)):
     user_query = request.user_query
 
     generate_outline = GenerateOutlineNode()
@@ -50,10 +41,5 @@ async def root(request: ChatRequest):
     flow = Flow(start=generate_outline)
     shared = {"user_query": user_query}
     flow.run(shared)
-
-    print("---------------------- Shared ----------------------")
-    print(shared.keys())
-    print(shared)
-    print("---------------------- Shared ----------------------")
 
     return {"response": shared.get("outline", "No response was returned")}

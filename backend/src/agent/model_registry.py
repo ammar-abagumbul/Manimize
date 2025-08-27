@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 
 from .model_config import ModelConfig
-from ..models import AzureAI, OpenAILLM
+from ..providers import AzureAI, OpenAILLM
 
 load_dotenv()
 

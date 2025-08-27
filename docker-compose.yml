@@ -4,18 +4,49 @@ services:
     image: redis:latest
     ports:
       - 6379:6379
+    networks:
+      - manimize-network
+
+  postgres:
+    container_name: postgres
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: manimizer
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
+    networks:
+      - manimize-network
+
+  minio:
+    container_name: minio
+    image: minio/minio:latest
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    volumes:
+      - minio_data:/data
+    ports:
+      - 9000:9000
+      - 9001:9001
+    command: server /data --console-address ":9001"
+    networks:
+      - manimize-network
 
   celery:
     container_name: celery
     build:
       context: ./backend/
     working_dir: /usr/src/app/src
-    command: >
-      sh -c "
-        celery -A dcelery worker --loglevel=info
-      "
+    command: celery -A dcelery worker --loglevel=info
     depends_on:
       - redis
+      - postgres
+    networks:
+      - manimize-network
 
   fastapi:
     container_name: fastapi
@@ -32,5 +63,23 @@ services:
     environment:
       - GITHUB_TOKEN=${GITHUB_TOKEN}
       - OPENROUTER_API=${OPENROUTER_API}
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=manimizer
+      - MINIO_ROOT_USER=minioadmin
+      - MINIO_ROOT_PASSWORD=minioadmin
+      - MINIO_ENDPOINT=http://minio:9000
     depends_on:
       - celery
+      - postgres
+      - minio
+    networks:
+      - manimize-network
+
+volumes:
+  postgres_data:
+  minio_data:
+
+networks:
+  manimize-network:
+    driver: bridge
